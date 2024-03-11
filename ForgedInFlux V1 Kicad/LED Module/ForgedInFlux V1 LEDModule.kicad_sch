@@ -394,6 +394,328 @@
 				)
 			)
 		)
+		(symbol "LEDModuleLibrary:LED_Pads"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LEDPads"
+				(at 0 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "LED_Pads_0_1"
+				(arc
+					(start -5.715 4.445)
+					(mid -5.343 3.547)
+					(end -4.445 3.175)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.715 8.255)
+					(mid -5.343 7.357)
+					(end -4.445 6.985)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.715 12.065)
+					(mid -5.343 11.167)
+					(end -4.445 10.795)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 5.715)
+					(mid -5.343 5.343)
+					(end -5.715 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 9.525)
+					(mid -5.343 9.153)
+					(end -5.715 8.255)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -4.445 13.335)
+					(mid -5.343 12.963)
+					(end -5.715 12.065)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.905 3.175)
+					(mid -1.007 3.547)
+					(end -0.635 4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.905 6.985)
+					(mid -1.007 7.357)
+					(end -0.635 8.255)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -1.905 10.795)
+					(mid -1.007 11.167)
+					(end -0.635 12.065)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.635 4.445)
+					(mid -1.007 5.343)
+					(end -1.905 5.715)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.635 8.255)
+					(mid -1.007 9.153)
+					(end -1.905 9.525)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.635 12.065)
+					(mid -1.007 12.963)
+					(end -1.905 13.335)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 3.175) (xy -4.445 3.175)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 5.715) (xy -4.445 5.715)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 6.985) (xy -4.445 6.985)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 9.525) (xy -4.445 9.525)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 10.795) (xy -4.445 10.795)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 13.335) (xy -4.445 13.335)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_Pads_1_1"
+				(pin output line
+					(at 1.905 12.065 180)
+					(length 2.54)
+					(name "5V"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 1.905 8.255 180)
+					(length 2.54)
+					(name "Data"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 1.905 4.445 180)
+					(length 2.54)
+					(name "Gnd"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0.889 0.889)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:+5V"
 			(power)
 			(pin_numbers hide)
@@ -757,6 +1079,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 41.91) (xy 180.34 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00e39894-5043-4198-9a43-00195b63a02a")
+	)
+	(wire
+		(pts
 			(xy 135.89 49.53) (xy 135.89 52.07)
 		)
 		(stroke
@@ -805,17 +1137,6 @@
 		)
 		(uuid "0cc8cd88-4934-4ab3-a647-ba94e7121a6b")
 	)
-	(bus
-		(pts
-			(xy 153.67 149.86) (xy 153.67 13.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "114055e0-441d-4405-98ef-156e23bef36c")
-	)
 	(wire
 		(pts
 			(xy 92.71 41.91) (xy 102.87 41.91)
@@ -826,17 +1147,6 @@
 		)
 		(uuid "1202d1c5-6ad9-4159-a024-f0cba7b455d6")
 	)
-	(bus
-		(pts
-			(xy 13.97 13.97) (xy 153.67 13.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "12111cdf-a00f-40ec-bd0b-474ca1411119")
-	)
 	(wire
 		(pts
 			(xy 35.56 71.12) (xy 35.56 72.39)
@@ -846,6 +1156,16 @@
 			(type default)
 		)
 		(uuid "12254ae5-2c56-4e25-a40d-a13c5880cb75")
+	)
+	(wire
+		(pts
+			(xy 171.45 38.1) (xy 173.99 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "138b5c2c-88ed-4f7d-b89d-a2fe6a769abb")
 	)
 	(wire
 		(pts
@@ -889,6 +1209,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 34.29) (xy 180.34 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18f2fb8f-9173-44ba-815a-b736de722362")
+	)
+	(wire
+		(pts
 			(xy 137.16 93.98) (xy 137.16 96.52)
 		)
 		(stroke
@@ -929,6 +1259,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 34.29) (xy 180.34 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219eaf5d-26f5-402b-ad81-f1ff40c3e527")
+	)
+	(wire
+		(pts
 			(xy 35.56 121.92) (xy 35.56 123.19)
 		)
 		(stroke
@@ -956,6 +1296,16 @@
 			(type default)
 		)
 		(uuid "24f82317-b6d5-4918-9a48-34bd6a23de7a")
+	)
+	(wire
+		(pts
+			(xy 180.34 41.91) (xy 180.34 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "289c40f7-f1be-473e-b502-168e3801a4bc")
 	)
 	(wire
 		(pts
@@ -1487,17 +1837,6 @@
 		)
 		(uuid "a4519396-b066-4249-bfae-a56096561b73")
 	)
-	(bus
-		(pts
-			(xy 13.97 149.86) (xy 153.67 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "a8c601ca-2179-4fe1-b0eb-e42f7306f9c8")
-	)
 	(wire
 		(pts
 			(xy 59.69 49.53) (xy 59.69 52.07)
@@ -1507,17 +1846,6 @@
 			(type default)
 		)
 		(uuid "ae67a4de-97f0-4092-912a-b751975cd848")
-	)
-	(bus
-		(pts
-			(xy 13.97 13.97) (xy 13.97 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "b09b154b-1026-4d10-82a8-dd693c748ced")
 	)
 	(wire
 		(pts
@@ -1779,6 +2107,32 @@
 		)
 		(uuid "fc10991d-825a-4acb-8754-2c43d52eeadf")
 	)
+	(rectangle
+		(start 13.97 13.97)
+		(end 154.94 152.4)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1556030f-b4f1-4d55-ac95-0483c79f36b1)
+	)
+	(rectangle
+		(start 157.48 13.97)
+		(end 191.77 53.34)
+		(stroke
+			(width 0.508)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5b4fea50-a248-4b2e-887d-b9c293f35c00)
+	)
 	(label "LED Layout"
 		(at 66.04 24.13 0)
 		(fields_autoplaced yes)
@@ -1793,25 +2147,133 @@
 		)
 		(uuid "11accab8-bc2b-4ecf-be74-9d4f8434e718")
 	)
+	(label "LED Pads"
+		(at 161.29 24.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 3.81 3.81)
+				(thickness 0.762)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "f3f4d21a-e0d7-4625-80b5-4bdc0a0ac03c")
+	)
+	(global_label "LEDData"
+		(shape input)
+		(at 173.99 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "312bbdc1-35c8-4afb-956d-d1278e721353")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.4981 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LEDData"
 		(shape input)
 		(at 25.4 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 0.889 0.889)
 			)
 			(justify right)
 		)
 		(uuid "68504dca-e6df-4ddb-8d87-61ba425f2403")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 14.674 41.91 0)
+			(at 17.8919 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LEDModuleLibrary:LED_Pads")
+		(at 169.545 46.355 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1223ff8c-4919-4918-ab3b-ae17542688c1")
+		(property "Reference" "LEDPads1"
+			(at 164.973 45.847 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 175.895 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LEDModuleLibrary:Led Pads"
+			(at 169.545 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 169.545 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 169.545 46.355 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "dc60f8b7-a727-4045-9361-5014c0a7b46e")
+		)
+		(pin "2"
+			(uuid "cc73cb84-2082-4ab9-8764-a6746c8eb444")
+		)
+		(pin "1"
+			(uuid "fd507c72-be15-4d40-ba62-f70728849be5")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "LEDPads1")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -1975,7 +2437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21f879d7-767d-4966-8526-09859071dc36")
-		(property "Reference" "C9"
+		(property "Reference" "C6"
 			(at 38.1 73.6662 0)
 			(effects
 				(font
@@ -1984,7 +2446,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 38.1 76.2062 0)
 			(effects
 				(font
@@ -1993,7 +2455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 35.56 74.93 0)
 			(effects
 				(font
@@ -2029,7 +2491,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C9")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -2195,7 +2657,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 113.03 31.7562 0)
 			(effects
 				(font
@@ -2204,7 +2666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 110.49 30.48 0)
 			(effects
 				(font
@@ -2547,7 +3009,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 62.23 31.7562 0)
 			(effects
 				(font
@@ -2556,7 +3018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 59.69 30.48 0)
 			(effects
 				(font
@@ -2608,7 +3070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a9b6653-df67-41b1-b5b7-a24191df670c")
-		(property "Reference" "C12"
+		(property "Reference" "C9"
 			(at 114.3 73.6662 0)
 			(effects
 				(font
@@ -2617,7 +3079,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 114.3 76.2062 0)
 			(effects
 				(font
@@ -2626,7 +3088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 111.76 74.93 0)
 			(effects
 				(font
@@ -2662,7 +3124,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C12")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -2762,7 +3224,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 34.29 30.48 0)
 			(effects
 				(font
@@ -2898,7 +3360,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 114.3 120.6562 0)
 			(effects
 				(font
@@ -2907,7 +3369,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 111.76 119.38 0)
 			(effects
 				(font
@@ -2959,7 +3421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74274f29-f1ca-4dec-aefd-620b5fbc87e7")
-		(property "Reference" "C6"
+		(property "Reference" "C11"
 			(at 38.1 118.1162 0)
 			(effects
 				(font
@@ -2968,7 +3430,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 38.1 120.6562 0)
 			(effects
 				(font
@@ -2977,7 +3439,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 35.56 119.38 0)
 			(effects
 				(font
@@ -3013,7 +3475,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C6")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -3095,6 +3557,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 180.34 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "822847eb-d99a-49e4-b226-71afc964a3a8")
+		(property "Reference" "#PWR05"
+			(at 180.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 180.34 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 180.34 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "afbbbce1-c671-4785-9702-218eb4e3f939")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 135.89 30.48 0)
 		(unit 1)
@@ -3113,7 +3641,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 138.43 31.7562 0)
 			(effects
 				(font
@@ -3122,7 +3650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 135.89 30.48 0)
 			(effects
 				(font
@@ -3174,7 +3702,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98157019-9445-42ea-801f-7d65d168bf7b")
-		(property "Reference" "C10"
+		(property "Reference" "C7"
 			(at 63.5 73.6662 0)
 			(effects
 				(font
@@ -3183,7 +3711,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 63.5 76.2062 0)
 			(effects
 				(font
@@ -3192,7 +3720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.96 74.93 0)
 			(effects
 				(font
@@ -3228,7 +3756,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -3253,7 +3781,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 139.7 120.6562 0)
 			(effects
 				(font
@@ -3262,7 +3790,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 137.16 119.38 0)
 			(effects
 				(font
@@ -3539,7 +4067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 87.63 31.7562 0)
 			(effects
 				(font
@@ -3548,7 +4076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 85.09 30.48 0)
 			(effects
 				(font
@@ -3675,7 +4203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c611afd3-8b49-4b3e-8ba5-9528ab5f04a9")
-		(property "Reference" "C7"
+		(property "Reference" "C12"
 			(at 63.5 118.1162 0)
 			(effects
 				(font
@@ -3684,7 +4212,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 63.5 120.6562 0)
 			(effects
 				(font
@@ -3693,7 +4221,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -3729,7 +4257,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C7")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3820,7 +4348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1087e9c-bc8a-4cc6-b7eb-a321b419c787")
-		(property "Reference" "C13"
+		(property "Reference" "C10"
 			(at 139.7 73.6662 0)
 			(effects
 				(font
@@ -3829,7 +4357,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 139.7 76.2062 0)
 			(effects
 				(font
@@ -3838,7 +4366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 137.16 74.93 0)
 			(effects
 				(font
@@ -3874,7 +4402,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C13")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -3965,7 +4493,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4426536-dc05-4e59-b4fe-c45151af7c6c")
-		(property "Reference" "C8"
+		(property "Reference" "C13"
 			(at 88.9 118.1162 0)
 			(effects
 				(font
@@ -3974,7 +4502,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 88.9 120.6562 0)
 			(effects
 				(font
@@ -3983,7 +4511,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 86.36 119.38 0)
 			(effects
 				(font
@@ -4019,7 +4547,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C8")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -4185,7 +4713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5f12b9b-4d9f-471e-98e9-eff2d318c84e")
-		(property "Reference" "C11"
+		(property "Reference" "C8"
 			(at 88.9 73.6662 0)
 			(effects
 				(font
@@ -4194,7 +4722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 88.9 76.2062 0)
 			(effects
 				(font
@@ -4203,7 +4731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 86.36 74.93 0)
 			(effects
 				(font
@@ -4239,7 +4767,7 @@
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C11")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4306,6 +4834,72 @@
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 180.34 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9a83496-1be1-49a9-bda4-f83dd0e73614")
+		(property "Reference" "#PWR08"
+			(at 180.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 180.34 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 180.34 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ee717877-446c-49bb-b148-7dda246770bc")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
