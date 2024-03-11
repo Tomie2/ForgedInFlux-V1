@@ -140,7 +140,7 @@
 				)
 			)
 		)
-		(symbol "LED:WS2812B"
+		(symbol "LED:SK6812"
 			(pin_names
 				(offset 0.254)
 			)
@@ -156,7 +156,7 @@
 					(justify right bottom)
 				)
 			)
-			(property "Value" "WS2812B"
+			(property "Value" "SK6812"
 				(at 1.27 -5.715 0)
 				(effects
 					(font
@@ -165,7 +165,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+			(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 				(at 1.27 -7.62 0)
 				(effects
 					(font
@@ -175,7 +175,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+			(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
 				(at 2.54 -9.525 0)
 				(effects
 					(font
@@ -203,7 +203,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*"
+			(property "ki_fp_filters" "LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -212,7 +212,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "WS2812B_0_0"
+			(symbol "SK6812_0_0"
 				(text "RGB"
 					(at 2.286 -4.191 0)
 					(effects
@@ -222,7 +222,7 @@
 					)
 				)
 			)
-			(symbol "WS2812B_0_1"
+			(symbol "SK6812_0_1"
 				(polyline
 					(pts
 						(xy 1.27 -3.556) (xy 1.778 -3.556)
@@ -319,11 +319,11 @@
 					)
 				)
 			)
-			(symbol "WS2812B_1_1"
+			(symbol "SK6812_1_1"
 				(pin power_in line
-					(at 0 7.62 270)
+					(at 0 -7.62 90)
 					(length 2.54)
-					(name "VDD"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -338,10 +338,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 7.62 0 180)
+				(pin input line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "DOUT"
+					(name "DIN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -357,9 +357,9 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 90)
+					(at 0 7.62 270)
 					(length 2.54)
-					(name "VSS"
+					(name "VDD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -374,10 +374,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
+				(pin output line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "DIN"
+					(name "DOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -777,16 +777,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 41.91) (xy 52.07 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05a54547-9a9c-4bbf-8c99-818ba67285ec")
-	)
-	(wire
-		(pts
 			(xy 35.56 93.98) (xy 35.56 96.52)
 		)
 		(stroke
@@ -817,7 +807,7 @@
 	)
 	(bus
 		(pts
-			(xy 154.94 189.23) (xy 154.94 13.97)
+			(xy 153.67 149.86) (xy 153.67 13.97)
 		)
 		(stroke
 			(width 0)
@@ -826,9 +816,19 @@
 		)
 		(uuid "114055e0-441d-4405-98ef-156e23bef36c")
 	)
+	(wire
+		(pts
+			(xy 92.71 41.91) (xy 102.87 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1202d1c5-6ad9-4159-a024-f0cba7b455d6")
+	)
 	(bus
 		(pts
-			(xy 13.97 13.97) (xy 154.94 13.97)
+			(xy 13.97 13.97) (xy 153.67 13.97)
 		)
 		(stroke
 			(width 0)
@@ -1219,6 +1219,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 41.91) (xy 52.07 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "704eda40-47a6-48ec-b4f5-708f8989dee3")
+	)
+	(wire
+		(pts
 			(xy 59.69 26.67) (xy 85.09 26.67)
 		)
 		(stroke
@@ -1479,7 +1489,7 @@
 	)
 	(bus
 		(pts
-			(xy 13.97 189.23) (xy 154.94 189.23)
+			(xy 13.97 149.86) (xy 153.67 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1500,7 +1510,7 @@
 	)
 	(bus
 		(pts
-			(xy 13.97 13.97) (xy 13.97 189.23)
+			(xy 13.97 13.97) (xy 13.97 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1631,26 +1641,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 52.07) (xy 59.69 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4771b3e-421f-46d2-91d7-cda5fedb867b")
-	)
-	(wire
-		(pts
-			(xy 92.71 41.91) (xy 102.87 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d960dc83-b3a2-4318-b97d-6f5a537d0cec")
-	)
-	(wire
-		(pts
 			(xy 86.36 71.12) (xy 111.76 71.12)
 		)
 		(stroke
@@ -1698,6 +1688,16 @@
 			(type default)
 		)
 		(uuid "deedac29-26ae-48f1-bf76-79b6d0b9815b")
+	)
+	(wire
+		(pts
+			(xy 34.29 52.07) (xy 59.69 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3a85829-9cfc-410d-b15a-4ca8f1c276f4")
 	)
 	(wire
 		(pts
@@ -1816,6 +1816,156 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:SK6812")
+		(at 35.56 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "12d33c0f-ed7c-4df6-a3ee-716bd555b994")
+		(property "Reference" "D11"
+			(at 45.72 127.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 46.228 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 36.83 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 38.1 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 35.56 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bc6b52e5-f7b8-46d8-a41a-6ea9d37a0153")
+		)
+		(pin "4"
+			(uuid "7242d4f8-ddde-4418-9335-fd19338e76df")
+		)
+		(pin "3"
+			(uuid "b19c33d2-82dd-4186-8ac4-8d84ca3ab06e")
+		)
+		(pin "1"
+			(uuid "6588ac8e-39a6-4151-a1ce-263456378404")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 60.96 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bdb5acc-cae6-4b1d-992c-ecf401c7d59a")
+		(property "Reference" "D12"
+			(at 71.12 127.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 71.628 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 62.23 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 63.5 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eed8b4ed-0dd4-4065-af2c-02be9294da81")
+		)
+		(pin "4"
+			(uuid "41bcd638-35cd-4c19-85c8-a11686a3dadb")
+		)
+		(pin "3"
+			(uuid "9f4bff5e-e350-48d0-919d-844be6bfe9f8")
+		)
+		(pin "1"
+			(uuid "257b17e0-b1b3-48ba-92d9-e7415bb3fbae")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 35.56 74.93 0)
 		(unit 1)
@@ -1886,33 +2036,32 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 86.36 130.81 0)
+		(lib_id "LED:SK6812")
+		(at 35.56 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "22ad6137-1ea5-4d0c-b5f5-543f838d60e6")
-		(property "Reference" "D8"
-			(at 97.79 127.162 0)
+		(uuid "26811db2-2c45-40d8-82c6-ac7ecbdbbfaa")
+		(property "Reference" "D6"
+			(at 45.72 82.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 97.79 129.702 0)
+		(property "Value" "SK6812"
+			(at 46.228 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 87.63 138.43 0)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 36.83 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1921,8 +2070,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 88.9 140.335 0)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 38.1 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1932,7 +2081,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 86.36 130.81 0)
+			(at 35.56 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1940,250 +2089,22 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "4ee58806-e205-496a-bb2b-edbb728035da")
+		)
 		(pin "4"
-			(uuid "fd059b1c-38ef-457d-87c6-3ea6b5965e54")
+			(uuid "3302eb6b-9a94-4793-af40-03738638e790")
 		)
 		(pin "3"
-			(uuid "c2e4766d-e0a0-424a-a298-6ca52fdda2cc")
+			(uuid "e6a44c94-1df5-4d45-a3a3-cb0cd897c57a")
 		)
 		(pin "1"
-			(uuid "4b82dadb-b422-4a9b-bacf-12ba3f105449")
-		)
-		(pin "2"
-			(uuid "a2234059-6f95-4209-8130-5a974bf714fb")
+			(uuid "907b4859-534f-4f52-8230-fc11570eb888")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 111.76 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37bccb9e-00bd-48d5-b20a-89081cc17faa")
-		(property "Reference" "D14"
-			(at 123.19 127.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 123.19 129.702 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 113.03 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 114.3 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 111.76 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "649d155c-e004-4967-ac53-37856e5bb9cb")
-		)
-		(pin "3"
-			(uuid "0b8b2d2f-82cc-4a5e-9cf3-e172627edd82")
-		)
-		(pin "1"
-			(uuid "3b05c498-39f5-405a-91d0-e45a888c2043")
-		)
-		(pin "2"
-			(uuid "17f545a2-fb48-40a6-9b67-92178fdc691a")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 137.16 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c54c70c-7c0c-45b3-8d99-6af65b038a6e")
-		(property "Reference" "D15"
-			(at 148.59 127.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 148.59 129.702 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 138.43 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 139.7 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 137.16 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "a13bcb8a-5ae5-4a50-ba04-d7478a856866")
-		)
-		(pin "3"
-			(uuid "ab958b2e-0286-42b0-b5ac-7b872e424d09")
-		)
-		(pin "1"
-			(uuid "462f7189-132c-44c5-922d-6c03620be702")
-		)
-		(pin "2"
-			(uuid "24949eb2-fa7a-4eb6-ade8-eaede7ad4b7e")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 86.36 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4665734c-1b10-45c1-b374-dbb31fffb89c")
-		(property "Reference" "D11"
-			(at 97.79 82.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 97.79 85.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 87.63 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 88.9 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 86.36 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "603f4423-7d96-4b8c-8747-17b9d22e1a36")
-		)
-		(pin "3"
-			(uuid "f7020eaa-4883-4b6c-8aed-76b8ea903455")
-		)
-		(pin "1"
-			(uuid "0ade4a14-73c0-47bc-bf75-9e610a020831")
-		)
-		(pin "2"
-			(uuid "c1c7d3d3-ea5a-483f-b64f-0a52afa5aff6")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D11")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -2392,6 +2313,81 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:SK6812")
+		(at 137.16 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "533acddd-3bc8-40e1-be08-d83e4ef448f8")
+		(property "Reference" "D15"
+			(at 147.32 127.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 147.828 129.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 138.43 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 139.7 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 137.16 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5db442fd-b653-43b9-8821-48e1567e8157")
+		)
+		(pin "4"
+			(uuid "ea8776cc-411e-463e-abc6-f272e00b91df")
+		)
+		(pin "3"
+			(uuid "edfc8b7b-a874-485e-9658-e16ecd90bdb5")
+		)
+		(pin "1"
+			(uuid "df80d563-fdaf-4426-aaf4-42c106f0a870")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 137.16 69.85 0)
 		(unit 1)
@@ -2452,6 +2448,81 @@
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 60.96 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "627e35b0-16a9-41f4-8568-8360e8a9e770")
+		(property "Reference" "D7"
+			(at 71.12 82.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 71.628 85.344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 62.23 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 63.5 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 60.96 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "03d4a220-145a-4d31-853f-2422870a5ee8")
+		)
+		(pin "4"
+			(uuid "4a96f42f-fa39-48e2-b60d-9e7e3a373678")
+		)
+		(pin "3"
+			(uuid "c038308e-1538-4ddf-8b50-33f06c6ebcad")
+		)
+		(pin "1"
+			(uuid "c6e3a633-f097-4580-ba38-bd2db005b4b5")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -2682,7 +2753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "0.1uF"
 			(at 36.83 31.7562 0)
 			(effects
 				(font
@@ -2728,6 +2799,81 @@
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 85.09 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ef91f2f-58a7-47f1-b600-d386d6693835")
+		(property "Reference" "D3"
+			(at 95.25 38.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 95.758 40.894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 86.36 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 87.63 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "dd792a9c-b7df-4193-93ee-26915777247b")
+		)
+		(pin "4"
+			(uuid "685deffd-e6b1-40dd-ad39-2438c0971951")
+		)
+		(pin "3"
+			(uuid "55f0f3fe-b7f4-4a3d-961e-b96cdd9f26b0")
+		)
+		(pin "1"
+			(uuid "352ab474-fd42-4274-93d6-4e47342ab802")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -2874,33 +3020,32 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 35.56 130.81 0)
+		(lib_id "LED:SK6812")
+		(at 111.76 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7799e249-02fc-47d4-bdb1-de69905e8a74")
-		(property "Reference" "D6"
-			(at 46.99 127.162 0)
+		(uuid "7568a152-aa73-4f0e-a8cb-50fe33eda55d")
+		(property "Reference" "D14"
+			(at 121.92 127.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 46.99 129.702 0)
+		(property "Value" "SK6812"
+			(at 122.428 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 36.83 138.43 0)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 113.03 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2909,8 +3054,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 38.1 140.335 0)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 114.3 140.335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2920,7 +3065,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 35.56 130.81 0)
+			(at 111.76 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2928,174 +3073,22 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "2981d3a2-129e-4241-80c8-c3372a7bdfc2")
+		)
 		(pin "4"
-			(uuid "b7ec7deb-b50a-49ea-99f0-b06231aca57c")
+			(uuid "f5074ee1-b8c3-4913-ac68-ab738cf7c6db")
 		)
 		(pin "3"
-			(uuid "46ebb962-8a71-49ca-9335-a39c2ebd378d")
+			(uuid "2a6dfe57-c7c9-4deb-8ab3-5ff9e87d8df7")
 		)
 		(pin "1"
-			(uuid "50e95cf3-4b43-42b0-a775-275c458fd357")
-		)
-		(pin "2"
-			(uuid "12f8eabc-1823-4110-b7b6-289eab357374")
+			(uuid "bde7c325-d6ba-4900-bb68-4cf690cafc1e")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 137.16 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "79a59967-02dd-4b91-acb4-892ce05cd2c8")
-		(property "Reference" "D13"
-			(at 148.59 82.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 148.59 85.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 138.43 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 139.7 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 137.16 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "f2fd8e70-e4ba-4498-9843-a49833337c7e")
-		)
-		(pin "3"
-			(uuid "b3ff9247-a702-471a-bf25-7e55dba77d67")
-		)
-		(pin "1"
-			(uuid "281cc37b-145a-4f20-bd59-1eb64aa3e916")
-		)
-		(pin "2"
-			(uuid "5685683d-4747-4abd-ab20-30121bd2b480")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 135.89 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ad32fea-5fc4-481a-a689-86fcfa21cad5")
-		(property "Reference" "D5"
-			(at 147.32 38.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 147.32 40.802 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 137.16 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 138.43 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 135.89 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b45d8f13-1772-473d-9e81-1c7164e80924")
-		)
-		(pin "3"
-			(uuid "ca7cf4ba-190c-4cc5-970b-d64dab6f8eb0")
-		)
-		(pin "1"
-			(uuid "9554e647-c694-46ff-acbc-2632cf58febc")
-		)
-		(pin "2"
-			(uuid "9385294a-4f4c-4975-a8f1-b6e89fb37fe1")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D5")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -3378,6 +3371,156 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:SK6812")
+		(at 34.29 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a11e596f-13db-4e8c-bd16-53d8fe9a8f4c")
+		(property "Reference" "D1"
+			(at 44.45 38.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 44.958 40.894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 35.56 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 36.83 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 34.29 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "06c88d64-9f44-4967-bd0d-0a9ea0b3bc5b")
+		)
+		(pin "4"
+			(uuid "9b6a9606-22b1-4b4e-8504-bab216253c11")
+		)
+		(pin "3"
+			(uuid "54d52e8e-801c-4f37-b288-86ee2f076f94")
+		)
+		(pin "1"
+			(uuid "0d057e24-9ea0-4940-829d-c88ad6fe0565")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 86.36 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a4d0be4e-dfdd-4231-942a-2a8b23652c92")
+		(property "Reference" "D8"
+			(at 96.52 82.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 97.028 85.344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 87.63 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 88.9 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 86.36 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "59bec359-971a-449d-97fd-e5f01efa676b")
+		)
+		(pin "4"
+			(uuid "dc961699-a105-4a3d-a1f8-d95fcecd05f6")
+		)
+		(pin "3"
+			(uuid "c236f6bb-56bd-4e84-b90a-93c4e55f40e2")
+		)
+		(pin "1"
+			(uuid "bab5137f-6815-4676-9f4b-a6bcfaf4c5cc")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 85.09 30.48 0)
 		(unit 1)
@@ -3448,33 +3591,32 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 35.56 86.36 0)
+		(lib_id "LED:SK6812")
+		(at 111.76 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9dc35d6-444d-4e81-a574-846d54c7995e")
+		(uuid "c50d24c7-32fb-4a8f-bf76-2f6b92c6b840")
 		(property "Reference" "D9"
-			(at 46.99 82.712 0)
+			(at 121.92 82.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 46.99 85.252 0)
+		(property "Value" "SK6812"
+			(at 122.428 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 36.83 93.98 0)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 113.03 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3483,8 +3625,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 38.1 95.885 0)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 114.3 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +3636,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 35.56 86.36 0)
+			(at 111.76 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3502,174 +3644,22 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "abd47188-ef60-42cd-951f-8cd61871b007")
+		)
 		(pin "4"
-			(uuid "cdb4f7d5-4e26-427a-936b-edb7a1fbdbd5")
+			(uuid "e5c12e66-5490-4620-92a3-30eda54c5709")
 		)
 		(pin "3"
-			(uuid "da85a476-f9a2-4969-9d89-f98c96813c10")
+			(uuid "0d751e1d-2658-407b-94f0-750752f12b46")
 		)
 		(pin "1"
-			(uuid "7446f8e8-32fe-4212-800d-72ba500350db")
-		)
-		(pin "2"
-			(uuid "28fa7030-ca1b-4b30-99fb-d4da4887d0fc")
+			(uuid "6fb5b95f-8a57-4624-8fff-6bf88492af98")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
 					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 85.09 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ab2f6ef8-3896-4ca7-8220-fd23f95a3194")
-		(property "Reference" "D3"
-			(at 96.52 38.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 96.52 40.802 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 86.36 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 87.63 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 85.09 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "e4e0e29c-b778-437b-9753-405f321e829b")
-		)
-		(pin "3"
-			(uuid "0b7f8ea5-1204-4608-b6da-82678e77dc3f")
-		)
-		(pin "1"
-			(uuid "ee32aad2-c8de-4610-a459-7c2c902540b9")
-		)
-		(pin "2"
-			(uuid "30d9deae-6481-4ed8-9db2-a5a6957de4a4")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 60.96 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b259d8e5-cfc3-4d6d-ba18-7cc92fc4b866")
-		(property "Reference" "D7"
-			(at 72.39 127.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 72.39 129.702 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 62.23 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 63.5 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 60.96 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "758477eb-7b6a-45d9-b25f-3bee55ddd520")
-		)
-		(pin "3"
-			(uuid "7afd88c7-e3e5-45b5-a318-b3bc67432838")
-		)
-		(pin "1"
-			(uuid "2f08d581-4e89-4f5d-b6c5-eb3e73a296cf")
-		)
-		(pin "2"
-			(uuid "7b03daae-1080-44df-8446-fc77e4a1307c")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -3746,33 +3736,32 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 111.76 86.36 0)
+		(lib_id "LED:SK6812")
+		(at 135.89 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca88bf4e-a1bd-41d6-93ab-15ef1e23136d")
-		(property "Reference" "D12"
-			(at 123.19 82.712 0)
+		(uuid "ca139ac2-cc9d-4c52-9609-5f2683c09399")
+		(property "Reference" "D5"
+			(at 146.05 38.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 123.19 85.252 0)
+		(property "Value" "SK6812"
+			(at 146.558 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 113.03 93.98 0)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 137.16 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3781,8 +3770,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 114.3 95.885 0)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 138.43 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3792,7 +3781,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 111.76 86.36 0)
+			(at 135.89 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,22 +3789,22 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "5e4d33eb-ca16-40d6-b4b7-daf7379668fc")
+		)
 		(pin "4"
-			(uuid "806384e2-ae87-4d16-833f-cb1f72cc2b5e")
+			(uuid "03661edb-8cd6-4bc6-941e-acb77e9f3f90")
 		)
 		(pin "3"
-			(uuid "e93079c9-df70-4d43-be22-fc3003ca2524")
+			(uuid "84040557-8670-4eef-9ed6-3644e816bd45")
 		)
 		(pin "1"
-			(uuid "cc6d033e-72b7-403c-815b-1ce98af5a7d7")
-		)
-		(pin "2"
-			(uuid "a5bcf4ad-fd38-4f6a-9aba-f9acb0281cc0")
+			(uuid "5dd2108e-282f-415d-9b46-11bb98e54199")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D12")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3892,6 +3881,81 @@
 		)
 	)
 	(symbol
+		(lib_id "LED:SK6812")
+		(at 137.16 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d39f8176-4e8c-4676-b7b6-6e617ea4c90f")
+		(property "Reference" "D10"
+			(at 147.32 82.712 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 147.828 85.344 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 138.43 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 139.7 95.885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 137.16 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "56b21bf1-4c5b-4d8b-ba33-d6a3c2886a9d")
+		)
+		(pin "4"
+			(uuid "7acf5361-3ce5-4199-9cab-87354e57053f")
+		)
+		(pin "3"
+			(uuid "ac2fbe2b-540e-4df5-ba96-0f28cf57bd64")
+		)
+		(pin "1"
+			(uuid "8787cfae-6de8-49ef-aebe-898bd9954ee1")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 86.36 119.38 0)
 		(unit 1)
@@ -3962,184 +4026,31 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 60.96 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e590edd5-eacf-4698-b8f3-ef6add1a07af")
-		(property "Reference" "D10"
-			(at 72.39 82.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 72.39 85.252 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 62.23 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 63.5 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 60.96 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "3b6f879f-7a24-49e8-b70b-3600ce0222a9")
-		)
-		(pin "3"
-			(uuid "75e2cb5e-c6bd-41ce-8182-934a51be8a76")
-		)
-		(pin "1"
-			(uuid "693ee98c-6de1-4f77-9b3c-3bccb267040a")
-		)
-		(pin "2"
-			(uuid "6012cfbc-d9de-4bac-bef7-d130453b21b8")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
-		(at 59.69 41.91 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e65df034-ab23-4379-ab66-ef9abc1c47cb")
-		(property "Reference" "D2"
-			(at 71.12 38.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "WS2812B"
-			(at 71.12 40.802 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 60.96 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 62.23 51.435 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 59.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "3e841c48-973a-4e30-a969-3b55d8f829c0")
-		)
-		(pin "3"
-			(uuid "9bc7584e-a576-4235-9405-9f24d3514f94")
-		)
-		(pin "1"
-			(uuid "ebeff32b-638d-48ad-b4f9-94116435d84f")
-		)
-		(pin "2"
-			(uuid "23ff5b27-7f82-4b49-b37f-672ff8813367")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:WS2812B")
+		(lib_id "LED:SK6812")
 		(at 110.49 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e99e65d4-7808-4685-906f-1f27fbd1317f")
+		(uuid "d4e6c870-083c-46ad-8f64-ab5ab7866afa")
 		(property "Reference" "D4"
-			(at 121.92 38.262 0)
+			(at 120.65 38.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 121.92 40.802 0)
+		(property "Value" "SK6812"
+			(at 121.158 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 111.76 49.53 0)
 			(effects
 				(font
@@ -4149,7 +4060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
 			(at 113.03 51.435 0)
 			(effects
 				(font
@@ -4168,22 +4079,97 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "3abd58f2-1299-4082-8594-237fd9833161")
+		)
 		(pin "4"
-			(uuid "f8e8fe7d-395a-4a1c-a0a9-085d70c87d08")
+			(uuid "9e60c186-7fbf-439c-afba-12c60aec4cb2")
 		)
 		(pin "3"
-			(uuid "b74bb6b4-8cb8-4aa8-b253-e5c20424f82c")
+			(uuid "3947ebe9-3b3d-492f-aa71-59bb14164e5a")
 		)
 		(pin "1"
-			(uuid "e2cf7645-510a-42af-a7fc-ff4c4c1d93fd")
-		)
-		(pin "2"
-			(uuid "3e8a3696-9ecd-446e-9d17-43df89fd2c2f")
+			(uuid "94075007-308e-4ae8-8ddf-f56a8b7d55fb")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 59.69 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d92f13eb-9867-4db9-befb-4d95b4eb1ddf")
+		(property "Reference" "D2"
+			(at 69.85 38.262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 70.358 40.894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 60.96 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 62.23 51.435 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 59.69 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ef021306-79c2-47ac-9307-28c619987a84")
+		)
+		(pin "4"
+			(uuid "949b6aac-b24b-45cd-9ca0-be56c15548c1")
+		)
+		(pin "3"
+			(uuid "7507ab76-d5fa-4877-8d78-9e3acc5653ec")
+		)
+		(pin "1"
+			(uuid "ee4f80c3-eb40-4efc-b6e4-21c75565781e")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -4326,33 +4312,32 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:WS2812B")
-		(at 34.29 41.91 0)
+		(lib_id "LED:SK6812")
+		(at 86.36 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f92c795b-7ee8-4126-83b8-d41903ca875e")
-		(property "Reference" "D1"
-			(at 45.72 38.262 0)
+		(uuid "fc749010-83e9-4248-b0a3-5aada217d6e4")
+		(property "Reference" "D13"
+			(at 96.52 127.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 45.72 40.802 0)
+		(property "Value" "SK6812"
+			(at 97.028 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 35.56 49.53 0)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 87.63 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4361,8 +4346,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 36.83 51.435 0)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 88.9 140.335 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4372,7 +4357,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 34.29 41.91 0)
+			(at 86.36 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4380,22 +4365,22 @@
 				(hide yes)
 			)
 		)
+		(pin "2"
+			(uuid "9558dbf0-f3a3-428d-8419-d5724687b725")
+		)
 		(pin "4"
-			(uuid "d0e1b368-e337-4ca5-a418-10e185ed3552")
+			(uuid "06e30459-9293-4021-b844-3cf69a179f4e")
 		)
 		(pin "3"
-			(uuid "bc3a46cc-226e-427f-bb49-1797d807dcdf")
+			(uuid "051ca01e-cd2b-4590-9593-afb4269af70e")
 		)
 		(pin "1"
-			(uuid "7a452baf-fa43-4378-a0b8-9b398d48c6ed")
-		)
-		(pin "2"
-			(uuid "68711ac7-4d07-461f-a71e-7718e5ed3261")
+			(uuid "246bee26-3b57-4d3c-a9e4-f14a0a30eae1")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D1")
+					(reference "D13")
 					(unit 1)
 				)
 			)
