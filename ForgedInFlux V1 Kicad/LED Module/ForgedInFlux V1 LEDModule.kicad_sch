@@ -934,148 +934,158 @@
 		)
 	)
 	(junction
-		(at 137.16 71.12)
+		(at 110.49 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "08010277-4df2-4bce-ba70-360e7acd6fcb")
+		(uuid "0800af55-8188-4e12-a515-57e1f2ce4039")
 	)
 	(junction
-		(at 85.09 52.07)
+		(at 59.69 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "08e341e3-8760-4753-969d-dee259657daa")
+		(uuid "0961a038-042d-4832-8427-5cf6f7f20728")
 	)
 	(junction
-		(at 111.76 96.52)
+		(at 110.49 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "18e75548-8107-4b1c-9a27-f874a01578ca")
+		(uuid "162d3da1-ad33-4893-825b-7a2f2599337b")
 	)
 	(junction
-		(at 60.96 140.97)
+		(at 135.89 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "228d4f71-d01c-48d5-958f-85fc77366c6e")
+		(uuid "184c4f7f-0f87-4faf-89be-21a582638e7c")
 	)
 	(junction
-		(at 137.16 140.97)
+		(at 85.09 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "23541ec2-6524-4567-994e-5b8d210f3815")
+		(uuid "1ac27890-2db4-44b2-b486-22c291d631a3")
 	)
 	(junction
-		(at 111.76 140.97)
+		(at 59.69 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "243070a7-398b-4e26-8c55-ddc9014f75e3")
+		(uuid "3f36e997-83b8-4923-8981-70885635ed2d")
 	)
 	(junction
-		(at 111.76 115.57)
+		(at 110.49 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "277cb4db-3aed-4032-8939-b0045545ed8b")
+		(uuid "4158dcef-6b39-4c2a-bdfa-0af9d3b84f47")
 	)
 	(junction
-		(at 59.69 52.07)
+		(at 85.09 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "39fca5c1-8895-48c1-bfc8-9abc29ce4c9d")
+		(uuid "435be019-1dbb-49bb-8984-56db75c70c16")
 	)
 	(junction
-		(at 86.36 71.12)
+		(at 85.09 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4493d99c-6c23-45f7-9860-91f3de902e27")
+		(uuid "52e54faf-0607-4c12-a751-39e5cd4b7a2a")
 	)
 	(junction
-		(at 60.96 115.57)
+		(at 59.69 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4ec131a4-6c55-4f0c-b9e7-9425c58932df")
+		(uuid "597632e7-b743-4baa-a4e6-8d2437f0fcf3")
 	)
 	(junction
-		(at 137.16 115.57)
+		(at 59.69 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "52e56f41-f861-4485-834c-c2142273a008")
+		(uuid "60914eff-2664-47ac-b316-cf03108ae819")
 	)
 	(junction
-		(at 60.96 96.52)
+		(at 85.09 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6e069637-b567-4381-b3bc-ac6b9bb13f55")
+		(uuid "66e4e255-0794-42d1-8b01-b355b1f0fbab")
 	)
 	(junction
-		(at 110.49 52.07)
+		(at 34.29 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "778b0ef1-894f-4df4-b0c2-f5a38b3ba6f5")
+		(uuid "98d1dfc3-41b0-42bd-b549-4a9b38bdd38d")
 	)
 	(junction
-		(at 86.36 140.97)
+		(at 135.89 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "818b9f90-8382-4933-bd1f-3f1a99f5f580")
+		(uuid "9f19caaf-d519-4fc3-8d3f-0fae9143248a")
 	)
 	(junction
-		(at 86.36 115.57)
+		(at 59.69 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8d2947dc-66ef-4012-adee-f5f83c56f921")
+		(uuid "a329a72b-378a-44bd-b372-f97045e9f904")
 	)
 	(junction
-		(at 110.49 26.67)
+		(at 85.09 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9aff4c83-bd4a-4d0d-9444-cb468be12b87")
+		(uuid "bc87e418-a558-4a8f-b8de-bcee25dae2bc")
 	)
 	(junction
-		(at 59.69 26.67)
+		(at 59.69 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ac2223f1-8d3b-408d-aa25-2d6aa816e6a3")
+		(uuid "bee8c55c-53bf-40c5-afc9-b5388d212baa")
 	)
 	(junction
-		(at 111.76 71.12)
+		(at 135.89 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b5bb3f84-a5e3-45ea-b666-39a1c153a672")
+		(uuid "c2a22471-faad-4dc7-9946-48dca7a373e4")
 	)
 	(junction
-		(at 86.36 96.52)
+		(at 34.29 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bb207e5d-b91b-4641-8eb3-c68bf56f38c1")
+		(uuid "ce601f82-8034-4c7b-800b-ddea22bc4d8e")
 	)
 	(junction
-		(at 137.16 96.52)
+		(at 110.49 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c66d96a8-44af-4545-ae08-43f4b73d6e96")
+		(uuid "d04da65f-4186-4ad2-9a70-d8b812dc1066")
 	)
 	(junction
-		(at 135.89 26.67)
+		(at 110.49 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c6742fa9-6e00-4d59-a9d7-acf18a9d3ada")
+		(uuid "f3d4262e-8824-45e2-b9fb-37ca59673a55")
 	)
 	(junction
-		(at 60.96 71.12)
+		(at 85.09 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ddf99076-7b4d-4eea-956c-435adacd3317")
+		(uuid "f9abd357-a311-4bee-a5d6-58b0f4b6bb36")
 	)
 	(junction
-		(at 135.89 52.07)
+		(at 34.29 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e4720d57-1c65-4297-a9e3-5095fdb69b37")
+		(uuid "fa064973-0835-4e80-893c-86ab5054cc2e")
 	)
 	(junction
-		(at 85.09 26.67)
+		(at 110.49 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fb5021cc-140f-466f-a67c-3d7d6b38df36")
+		(uuid "fc315607-c9b1-48de-91a0-98e9f53571e1")
+	)
+	(wire
+		(pts
+			(xy 22.86 83.82) (xy 22.86 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00752746-5686-4c62-894b-88c02bb2fcd2")
 	)
 	(wire
 		(pts
@@ -1089,73 +1099,93 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 49.53) (xy 135.89 52.07)
+			(xy 110.49 153.67) (xy 110.49 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0126a1a6-28dd-4532-9284-603d4ed3a650")
+		(uuid "02d9e102-358e-4504-a026-693b9292208a")
 	)
 	(wire
 		(pts
-			(xy 35.56 71.12) (xy 60.96 71.12)
+			(xy 139.7 35.56) (xy 135.89 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "032f9706-dd2a-4434-88e4-d458d5f54e7a")
+		(uuid "03320f9e-ca7e-4266-9ba7-600534744f39")
 	)
 	(wire
 		(pts
-			(xy 35.56 93.98) (xy 35.56 96.52)
+			(xy 110.49 41.91) (xy 110.49 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "063e409a-51dc-4eea-bb67-18ac3a507c1e")
+		(uuid "06a43f63-571e-495e-a91e-1f6fcf7ea2d5")
 	)
 	(wire
 		(pts
-			(xy 110.49 26.67) (xy 110.49 27.94)
+			(xy 135.89 156.21) (xy 135.89 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0b65cd83-fc25-4c43-b8bf-796c9adeb2ff")
+		(uuid "06a74563-f8fb-432b-9ce2-4665c1553561")
 	)
 	(wire
 		(pts
-			(xy 35.56 140.97) (xy 60.96 140.97)
+			(xy 73.66 132.08) (xy 73.66 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0cc8cd88-4934-4ab3-a647-ba94e7121a6b")
+		(uuid "090873d7-8bcf-4e3a-8fb7-ddd8f2ad904e")
 	)
 	(wire
 		(pts
-			(xy 92.71 41.91) (xy 102.87 41.91)
+			(xy 85.09 156.21) (xy 110.49 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1202d1c5-6ad9-4159-a024-f0cba7b455d6")
+		(uuid "0c549ede-e9bd-4e0a-970c-e5e64e14cf9c")
 	)
 	(wire
 		(pts
-			(xy 35.56 71.12) (xy 35.56 72.39)
+			(xy 85.09 132.08) (xy 81.28 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "12254ae5-2c56-4e25-a40d-a13c5880cb75")
+		(uuid "0c6681b6-7265-40d9-b4d0-10cb2f68c34e")
+	)
+	(wire
+		(pts
+			(xy 34.29 156.21) (xy 59.69 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10361a70-9fbb-4bb9-8e9a-98530d173835")
+	)
+	(wire
+		(pts
+			(xy 139.7 129.54) (xy 139.7 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10e29329-2ec7-4382-a530-c9dfac89406e")
 	)
 	(wire
 		(pts
@@ -1169,43 +1199,93 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 115.57) (xy 137.16 115.57)
+			(xy 146.05 72.39) (xy 17.78 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "14417f44-10d7-4505-9ce7-092e487c243f")
+		(uuid "13934028-bacc-406e-84b8-36c834987545")
 	)
 	(wire
 		(pts
-			(xy 35.56 138.43) (xy 35.56 140.97)
+			(xy 59.69 35.56) (xy 55.88 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "145f81b9-ae20-4fbf-84dd-8bfdd8f67d23")
+		(uuid "13b4f620-9eaf-4b44-b2a2-677a7d46b84b")
 	)
 	(wire
 		(pts
-			(xy 137.16 115.57) (xy 137.16 116.84)
+			(xy 50.8 132.08) (xy 48.26 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "162c3152-faf7-47e8-96fd-7234c2028e60")
+		(uuid "1472683f-8f73-4ed7-bec6-7cea029fcd3a")
 	)
 	(wire
 		(pts
-			(xy 68.58 130.81) (xy 78.74 130.81)
+			(xy 143.51 49.53) (xy 146.05 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "170ed68b-3af7-45dd-8b2b-a55c6cff49c9")
+		(uuid "15c72828-b395-4fec-8574-90d8a1566c0e")
+	)
+	(wire
+		(pts
+			(xy 63.5 81.28) (xy 63.5 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15d7a5d3-19d8-4ebd-ad5a-cb9911f01731")
+	)
+	(wire
+		(pts
+			(xy 73.66 35.56) (xy 73.66 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16b1ec16-8cc2-44b2-b9b4-4cfcf7f9696b")
+	)
+	(wire
+		(pts
+			(xy 127 35.56) (xy 124.46 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16db6acb-68d3-4353-b39d-449353d6be1d")
+	)
+	(wire
+		(pts
+			(xy 135.89 83.82) (xy 132.08 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "173c1a48-0290-42ab-8742-9d5a154714ea")
+	)
+	(wire
+		(pts
+			(xy 63.5 35.56) (xy 59.69 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17741973-0ca8-4546-bbb4-9fcddee4fe92")
 	)
 	(wire
 		(pts
@@ -1219,43 +1299,33 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 93.98) (xy 137.16 96.52)
+			(xy 114.3 35.56) (xy 110.49 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1dcaeebd-760c-4ba1-964e-87f99791c856")
+		(uuid "199203c3-439a-4fa6-8b4d-7319eb76040e")
 	)
 	(wire
 		(pts
-			(xy 144.78 86.36) (xy 146.05 86.36)
+			(xy 110.49 90.17) (xy 110.49 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1e74b7e6-314e-45ba-ba80-a04d07a34388")
+		(uuid "1abd3d37-6228-4f08-84c0-8ed4856ccaa7")
 	)
 	(wire
 		(pts
-			(xy 85.09 33.02) (xy 85.09 34.29)
+			(xy 63.5 83.82) (xy 59.69 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1ec93b64-199d-482b-9eee-2637243a0922")
-	)
-	(wire
-		(pts
-			(xy 135.89 33.02) (xy 135.89 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ed949a2-b8ba-4f5a-8525-d4aeb3ec8876")
+		(uuid "1b150c18-4bc8-4e62-bdf1-67223d8a12d1")
 	)
 	(wire
 		(pts
@@ -1269,33 +1339,23 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 121.92) (xy 35.56 123.19)
+			(xy 25.4 35.56) (xy 22.86 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "23d21375-3632-4315-95df-8424304998e3")
+		(uuid "250c1268-4355-4a72-adb9-66ad55d90b2e")
 	)
 	(wire
 		(pts
-			(xy 137.16 71.12) (xy 137.16 72.39)
+			(xy 127 132.08) (xy 124.46 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "24b4f5d2-45d7-4bf8-b821-b14b324a748d")
-	)
-	(wire
-		(pts
-			(xy 85.09 52.07) (xy 110.49 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24f82317-b6d5-4918-9a48-34bd6a23de7a")
+		(uuid "26cfdcf6-e0f6-4009-bbbe-d239c9cf843f")
 	)
 	(wire
 		(pts
@@ -1309,297 +1369,467 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 49.53) (xy 110.49 52.07)
+			(xy 34.29 90.17) (xy 34.29 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2adce768-f1d3-412c-b53e-86ce089d66c2")
+		(uuid "2cff389a-3aa3-48ac-8dab-d16ea204c243")
 	)
 	(wire
 		(pts
-			(xy 59.69 26.67) (xy 59.69 27.94)
+			(xy 127 83.82) (xy 124.46 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2af10dfb-1bb8-43d2-ade2-a1a7e1125219")
+		(uuid "2d1252e3-3e5c-4b32-a6dc-27d748f297d2")
 	)
 	(wire
 		(pts
-			(xy 35.56 115.57) (xy 35.56 116.84)
+			(xy 48.26 35.56) (xy 48.26 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2f11a8fe-5f78-4fcd-baa8-1be2005673bb")
+		(uuid "310f19bf-0c22-4a42-90ca-79cb65ec0d1e")
 	)
 	(wire
 		(pts
-			(xy 86.36 140.97) (xy 111.76 140.97)
+			(xy 38.1 129.54) (xy 38.1 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "30d2b8f2-9a5d-4fa7-a87c-40c7c5ea6852")
+		(uuid "32d2190e-269f-4c42-be42-3e04a3f056da")
 	)
 	(wire
 		(pts
-			(xy 34.29 26.67) (xy 59.69 26.67)
+			(xy 99.06 35.56) (xy 99.06 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3299b00c-d452-45e7-bf45-163ff3a85117")
+		(uuid "34796e3e-e7c7-46ec-9227-12e2d12a26b2")
 	)
 	(wire
 		(pts
-			(xy 86.36 96.52) (xy 60.96 96.52)
+			(xy 85.09 59.69) (xy 85.09 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "337bb111-0ab3-4b9c-aea6-28756187bd65")
+		(uuid "3491219f-92e9-42fe-b67e-7b2a67c42e77")
 	)
 	(wire
 		(pts
-			(xy 111.76 140.97) (xy 137.16 140.97)
+			(xy 59.69 41.91) (xy 59.69 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "363f7bfc-069f-44da-ad62-d9d0c3778022")
+		(uuid "36efe284-4aaf-4232-b758-b767e11478df")
 	)
 	(wire
 		(pts
-			(xy 68.58 86.36) (xy 78.74 86.36)
+			(xy 88.9 83.82) (xy 85.09 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "369546c7-beb7-4b86-8576-413bbd1b6d53")
+		(uuid "37488096-0225-4b01-8bde-ab78bbb037bf")
 	)
 	(wire
 		(pts
-			(xy 135.89 53.34) (xy 135.89 52.07)
+			(xy 50.8 35.56) (xy 48.26 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3853dd67-2f92-41ba-b7f3-6e40e222ab31")
+		(uuid "37660c4a-f6d6-436f-a01e-31a0ac0150f1")
 	)
 	(wire
 		(pts
-			(xy 35.56 115.57) (xy 60.96 115.57)
+			(xy 59.69 90.17) (xy 59.69 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "39410e70-a80b-4946-a41b-ad08cb650fea")
+		(uuid "3940b613-62ad-47f4-b542-9a5f5949f44d")
 	)
 	(wire
 		(pts
-			(xy 137.16 97.79) (xy 137.16 96.52)
+			(xy 85.09 156.21) (xy 85.09 158.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3965629f-068c-4ac7-8fb1-80694396fde9")
+		(uuid "396179cf-c639-4b3a-85f3-61e019fbde77")
 	)
 	(wire
 		(pts
-			(xy 137.16 69.85) (xy 137.16 71.12)
+			(xy 135.89 35.56) (xy 132.08 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3fcbb06e-345f-4174-9f28-4998b2146d74")
+		(uuid "3b16d744-7a5c-4f2b-aaf5-2ec41c8e12a9")
 	)
 	(wire
 		(pts
-			(xy 111.76 93.98) (xy 111.76 96.52)
+			(xy 41.91 97.79) (xy 52.07 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3fd37a9d-5a17-4d77-8fa2-f5e92e33e3c3")
+		(uuid "3bedb4ea-5752-47d4-8b1c-3deec75af298")
 	)
 	(wire
 		(pts
-			(xy 137.16 114.3) (xy 137.16 115.57)
+			(xy 146.05 97.79) (xy 146.05 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "41b5f135-76ee-4d08-9ab1-6e426bce6c41")
+		(uuid "3cfc7e17-51fa-466e-8137-d752adfc56f3")
 	)
 	(wire
 		(pts
-			(xy 59.69 33.02) (xy 59.69 34.29)
+			(xy 67.31 97.79) (xy 77.47 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "436438a8-78e0-41c9-825e-34900a9ee7b0")
+		(uuid "3e3e19a8-79ba-4441-a52c-0fed0f7e4b12")
 	)
 	(wire
 		(pts
-			(xy 60.96 138.43) (xy 60.96 140.97)
+			(xy 99.06 132.08) (xy 99.06 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "47723184-dbd8-491b-885f-8372635730c5")
+		(uuid "3fde14b3-0cd1-4cc9-9705-02ad666f2836")
 	)
 	(wire
 		(pts
-			(xy 137.16 138.43) (xy 137.16 140.97)
+			(xy 146.05 49.53) (xy 146.05 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4c6f73a2-202f-4d76-896c-c89229c34164")
+		(uuid "40cf5681-f8f5-49c9-a480-db138ef23854")
 	)
 	(wire
 		(pts
-			(xy 60.96 121.92) (xy 60.96 123.19)
+			(xy 110.49 105.41) (xy 110.49 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "50405433-fe7b-4502-a16f-f595ed8bf454")
+		(uuid "42eb894a-a232-45db-97dc-8fb127c7decb")
 	)
 	(wire
 		(pts
-			(xy 86.36 96.52) (xy 111.76 96.52)
+			(xy 59.69 107.95) (xy 85.09 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "50a85c37-d00e-405b-809e-512b4fdc482c")
+		(uuid "43ed7997-4a7a-4992-b24a-42af2110524f")
 	)
 	(wire
 		(pts
-			(xy 110.49 52.07) (xy 135.89 52.07)
+			(xy 34.29 138.43) (xy 34.29 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5ac79adc-b690-456c-95a1-6154d915a45c")
+		(uuid "4419e60d-0546-4d3f-bcc0-996c0354d794")
 	)
 	(wire
 		(pts
-			(xy 111.76 138.43) (xy 111.76 140.97)
+			(xy 38.1 81.28) (xy 38.1 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5bc5b690-a717-47e2-8dba-586bf4b56bb9")
+		(uuid "4860d1f6-3c74-48ab-a136-7d6b13851030")
 	)
 	(wire
 		(pts
-			(xy 85.09 52.07) (xy 59.69 52.07)
+			(xy 67.31 146.05) (xy 77.47 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "60361645-31d4-4d3e-9a66-4f9b078443d3")
+		(uuid "498f57d0-3bb9-436f-a5ac-bba6ceb68c0e")
 	)
 	(wire
 		(pts
-			(xy 119.38 86.36) (xy 129.54 86.36)
+			(xy 118.11 97.79) (xy 128.27 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "648fac07-c6ef-4b9e-9e72-3128cf3fa51b")
+		(uuid "4c1bc25d-2c3f-4d1e-854e-e151130dd585")
 	)
 	(wire
 		(pts
-			(xy 86.36 121.92) (xy 86.36 123.19)
+			(xy 110.49 83.82) (xy 106.68 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "66776ccd-94e0-4edb-be5b-1c5b49d5d5f1")
+		(uuid "4cbe0a32-b903-4d98-859d-b66cb259c0fe")
 	)
 	(wire
 		(pts
-			(xy 146.05 105.41) (xy 26.67 105.41)
+			(xy 143.51 97.79) (xy 146.05 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a1fb7fe-54df-4c05-94ec-9fb72cf09d72")
+		(uuid "4e750ed0-660d-4766-b875-ad71c726279f")
 	)
 	(wire
 		(pts
-			(xy 34.29 33.02) (xy 34.29 34.29)
+			(xy 34.29 107.95) (xy 59.69 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e8c9d6f-fd8b-45cf-83c2-3d84e071281f")
+		(uuid "4ea8b022-9ade-4a25-bff9-ea43950f73ae")
 	)
 	(wire
 		(pts
-			(xy 41.91 41.91) (xy 52.07 41.91)
+			(xy 118.11 49.53) (xy 128.27 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "704eda40-47a6-48ec-b4f5-708f8989dee3")
+		(uuid "51ac0f12-1b4b-457e-ada4-cc0abc75b9d9")
 	)
 	(wire
 		(pts
-			(xy 59.69 26.67) (xy 85.09 26.67)
+			(xy 139.7 81.28) (xy 139.7 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "70f8c3c0-2d71-4db1-9d7e-7c39ff6ec3e1")
+		(uuid "56e728e4-9d52-42ca-bb02-dcce9612857c")
 	)
 	(wire
 		(pts
-			(xy 111.76 71.12) (xy 137.16 71.12)
+			(xy 92.71 97.79) (xy 102.87 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7133fe18-3e40-4092-b244-7ba74290439a")
+		(uuid "5b21760b-1401-4517-bf63-147400d1b61b")
 	)
 	(wire
 		(pts
-			(xy 26.67 41.91) (xy 25.4 41.91)
+			(xy 101.6 35.56) (xy 99.06 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b2e268d-ee87-41d8-9f87-3a799b6e0d99")
+	)
+	(wire
+		(pts
+			(xy 92.71 49.53) (xy 102.87 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b995acc-f28c-42ce-b22a-a1fb40822e4e")
+	)
+	(wire
+		(pts
+			(xy 22.86 132.08) (xy 22.86 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bdbf086-fd2c-44dc-b0fc-fcb2f225562d")
+	)
+	(wire
+		(pts
+			(xy 50.8 83.82) (xy 48.26 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cb3d29e-3cc5-4ce4-9e44-4b0e361f6817")
+	)
+	(wire
+		(pts
+			(xy 88.9 81.28) (xy 88.9 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d1ba4a4-b030-468d-a6d1-3afc845a79d6")
+	)
+	(wire
+		(pts
+			(xy 48.26 83.82) (xy 48.26 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d953a8e-0007-4a96-89c1-fafb93ffec6a")
+	)
+	(wire
+		(pts
+			(xy 34.29 153.67) (xy 34.29 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "618e697e-82d8-42cc-8b45-79c3d002077f")
+	)
+	(wire
+		(pts
+			(xy 38.1 33.02) (xy 38.1 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a7e31a-7abd-4048-a9c2-4eb071d970de")
+	)
+	(wire
+		(pts
+			(xy 59.69 156.21) (xy 85.09 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6321aaf1-d142-482c-a4ea-7877aea0fef4")
+	)
+	(wire
+		(pts
+			(xy 85.09 156.21) (xy 85.09 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "633ef95b-7afd-4954-af28-519a8fbfc1b6")
+	)
+	(wire
+		(pts
+			(xy 85.09 90.17) (xy 85.09 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "640570c5-9c4b-4c58-bcdd-334fcce55705")
+	)
+	(wire
+		(pts
+			(xy 85.09 107.95) (xy 85.09 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "662eb3bd-6115-4020-b4ac-ceb40f2b66e3")
+	)
+	(wire
+		(pts
+			(xy 17.78 97.79) (xy 26.67 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66c35d14-6efd-4b9d-acab-aba9cb0d81bc")
+	)
+	(wire
+		(pts
+			(xy 25.4 83.82) (xy 22.86 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6deb3a38-7f7b-49a3-8aad-d5ecbf885aa5")
+	)
+	(wire
+		(pts
+			(xy 135.89 59.69) (xy 135.89 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70285a53-a77e-4fe3-8756-a0abfea1ae81")
+	)
+	(wire
+		(pts
+			(xy 59.69 59.69) (xy 85.09 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "708e0706-baba-4913-8b4d-d37169923ac3")
+	)
+	(wire
+		(pts
+			(xy 34.29 57.15) (xy 34.29 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70d18ac0-b536-4e49-99cf-86587ad40b62")
+	)
+	(wire
+		(pts
+			(xy 26.67 49.53) (xy 25.4 49.53)
 		)
 		(stroke
 			(width 0)
@@ -1609,507 +1839,727 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 77.47) (xy 137.16 78.74)
+			(xy 76.2 83.82) (xy 73.66 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "72a6fed7-7744-4198-862e-f2006813cfa0")
+		(uuid "72769830-97b2-44c0-aa9a-a28c48b9ce25")
 	)
 	(wire
 		(pts
-			(xy 43.18 86.36) (xy 53.34 86.36)
+			(xy 88.9 132.08) (xy 85.09 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "742b5d63-d119-4cc2-88d4-1a1dea364eda")
+		(uuid "75e07327-6a04-43f9-b238-dda32f786860")
 	)
 	(wire
 		(pts
-			(xy 86.36 115.57) (xy 86.36 116.84)
+			(xy 110.49 156.21) (xy 135.89 156.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "78e4ec47-acd3-4e95-b527-e0e64be3341a")
+		(uuid "762c9908-73ae-4662-9c74-556ad0a098cc")
 	)
 	(wire
 		(pts
-			(xy 60.96 71.12) (xy 86.36 71.12)
+			(xy 34.29 41.91) (xy 34.29 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "79a565b7-0d08-4009-850f-cc6a65c4bb9b")
+		(uuid "76a91c07-9cec-4fab-9432-c7a70d9db466")
 	)
 	(wire
 		(pts
-			(xy 111.76 71.12) (xy 111.76 72.39)
+			(xy 114.3 81.28) (xy 114.3 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "841fc033-0298-4236-a5ce-a56ce4ea2ee3")
+		(uuid "7735df0f-87b6-4b9e-8abc-637cba524ea7")
 	)
 	(wire
 		(pts
-			(xy 60.96 93.98) (xy 60.96 96.52)
+			(xy 38.1 132.08) (xy 34.29 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "86776d55-bdef-4d20-8bb0-54c21b41c783")
+		(uuid "7942a3dd-d1a8-46f6-b592-c399cb89192d")
 	)
 	(wire
 		(pts
-			(xy 86.36 138.43) (xy 86.36 140.97)
+			(xy 34.29 83.82) (xy 30.48 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "89b79286-bf59-426c-8c6e-667c15e42384")
+		(uuid "79e5aeb0-0528-4ae4-8439-f15c0a8a8f86")
 	)
 	(wire
 		(pts
-			(xy 118.11 41.91) (xy 128.27 41.91)
+			(xy 135.89 90.17) (xy 135.89 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8e75a6ca-9ba0-4c11-b461-0da4ae58d943")
+		(uuid "7b1610fa-67f7-45ff-bf5d-5b82b2369008")
 	)
 	(wire
 		(pts
-			(xy 86.36 77.47) (xy 86.36 78.74)
+			(xy 85.09 35.56) (xy 81.28 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8edcbc44-240c-41a7-951f-4f431636dd93")
+		(uuid "7d333cdb-aa4b-40f5-b9b1-b947d955ee8b")
 	)
 	(wire
 		(pts
-			(xy 26.67 86.36) (xy 27.94 86.36)
+			(xy 25.4 132.08) (xy 22.86 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8f1a8387-7ffa-4649-9b2b-5919e1dcc71e")
+		(uuid "8226af37-3cd8-44a9-90c3-5f4a628b86f8")
 	)
 	(wire
 		(pts
-			(xy 86.36 115.57) (xy 111.76 115.57)
+			(xy 38.1 35.56) (xy 34.29 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8f1abb11-7a2e-4544-bbe9-14c180ecb033")
+		(uuid "84348a13-7298-4c20-ab58-9662a05e88c6")
 	)
 	(wire
 		(pts
-			(xy 111.76 96.52) (xy 137.16 96.52)
+			(xy 34.29 35.56) (xy 30.48 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90e891b3-b638-4b6d-9a58-06c43e42d83b")
+		(uuid "86deae67-b7cd-43ea-9902-2dba0de7bfa0")
 	)
 	(wire
 		(pts
-			(xy 26.67 105.41) (xy 26.67 130.81)
+			(xy 38.1 83.82) (xy 34.29 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "968b4acd-4f16-43c1-b711-e1efa97b82dc")
+		(uuid "88169199-da28-4472-b553-32bd53c30198")
 	)
 	(wire
 		(pts
-			(xy 43.18 130.81) (xy 53.34 130.81)
+			(xy 59.69 138.43) (xy 59.69 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "97e75d06-e25d-439a-8611-962ba3e5cef9")
+		(uuid "881964fb-2f02-4f4d-87f1-c9a452900d7f")
 	)
 	(wire
 		(pts
-			(xy 60.96 77.47) (xy 60.96 78.74)
+			(xy 110.49 138.43) (xy 110.49 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9878addc-d979-47a0-8f64-9c9aa05d3983")
+		(uuid "8899c11f-4715-4f62-b7ee-bea9fcda8e56")
 	)
 	(wire
 		(pts
-			(xy 26.67 62.23) (xy 26.67 86.36)
+			(xy 34.29 105.41) (xy 34.29 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "987d98fe-4201-4e0d-8bf2-48023414dcc2")
+		(uuid "8c4ee237-ecff-4cbf-96d3-0d826785cd7b")
 	)
 	(wire
 		(pts
-			(xy 85.09 26.67) (xy 85.09 27.94)
+			(xy 73.66 83.82) (xy 73.66 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "996d8f4a-32a8-406f-a224-a698a59fe6bb")
+		(uuid "946d2131-631c-48d9-b450-68ea399a07a3")
 	)
 	(wire
 		(pts
-			(xy 86.36 140.97) (xy 60.96 140.97)
+			(xy 17.78 72.39) (xy 17.78 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a8d0aa1-2e66-4c2e-bae1-994f2e918ce7")
+		(uuid "94f91809-2cc4-4050-92c9-8e7dc1d86af6")
 	)
 	(wire
 		(pts
-			(xy 60.96 71.12) (xy 60.96 72.39)
+			(xy 114.3 33.02) (xy 114.3 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9b9f20a9-7ab0-4fa9-9360-da1ccb6ee46b")
+		(uuid "998ef66d-d39d-44ef-bd38-7cab6c9e8e00")
 	)
 	(wire
 		(pts
-			(xy 137.16 142.24) (xy 137.16 140.97)
+			(xy 118.11 146.05) (xy 128.27 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9ecef6af-ee73-4b9d-8d57-1c9f401e5668")
+		(uuid "9aa28367-06e3-4472-b176-669b65257766")
 	)
 	(wire
 		(pts
-			(xy 119.38 130.81) (xy 129.54 130.81)
+			(xy 110.49 107.95) (xy 135.89 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a19c7e95-1975-49f8-83e6-19baeada382b")
+		(uuid "9cf2acd6-46da-4b89-8277-fec46675198e")
 	)
 	(wire
 		(pts
-			(xy 144.78 62.23) (xy 26.67 62.23)
+			(xy 85.09 59.69) (xy 110.49 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a2e1adf2-0a22-4e69-b237-e6ab45c9d09f")
+		(uuid "9d6ce7b3-9949-4052-ada3-bc3fb248dc63")
 	)
 	(wire
 		(pts
-			(xy 86.36 93.98) (xy 86.36 96.52)
+			(xy 85.09 138.43) (xy 85.09 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a4519396-b066-4249-bfae-a56096561b73")
+		(uuid "9ecfca63-1b72-49c5-be8b-148a6c78c9de")
 	)
 	(wire
 		(pts
-			(xy 59.69 49.53) (xy 59.69 52.07)
+			(xy 88.9 129.54) (xy 88.9 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ae67a4de-97f0-4092-912a-b751975cd848")
+		(uuid "9f025e34-54e6-41c8-bea7-9281acafbd86")
 	)
 	(wire
 		(pts
-			(xy 144.78 41.91) (xy 144.78 62.23)
+			(xy 139.7 132.08) (xy 135.89 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b10063f0-7c0c-444b-9564-0fd023f86677")
+		(uuid "a1a0d771-9d41-4ed3-b9b9-25c007cb95f8")
 	)
 	(wire
 		(pts
-			(xy 137.16 121.92) (xy 137.16 123.19)
+			(xy 101.6 132.08) (xy 99.06 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b64af704-1195-495e-b70c-c74b85afff45")
+		(uuid "a596ba4a-b433-4016-a9d4-81014385b220")
 	)
 	(wire
 		(pts
-			(xy 85.09 26.67) (xy 110.49 26.67)
+			(xy 110.49 59.69) (xy 135.89 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b6eaca5c-0b07-463c-b131-1a0ea0e91999")
+		(uuid "a88f82b4-5882-4645-9bef-941c8c35a6a4")
 	)
 	(wire
 		(pts
-			(xy 93.98 86.36) (xy 104.14 86.36)
+			(xy 124.46 83.82) (xy 124.46 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba01edae-7c6a-4fdf-9d18-2df5ba077481")
+		(uuid "a94e277f-7474-464b-81e7-0700e2da3e4f")
 	)
 	(wire
 		(pts
-			(xy 111.76 77.47) (xy 111.76 78.74)
+			(xy 59.69 105.41) (xy 59.69 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bbf5d2fb-5c05-475a-9a79-298db3495d07")
+		(uuid "a951a5e5-3290-47c4-9851-f0cbd4f7bd6f")
 	)
 	(wire
 		(pts
-			(xy 35.56 77.47) (xy 35.56 78.74)
+			(xy 22.86 35.56) (xy 22.86 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bcd6c59d-446d-4035-ab82-3e8caffa7aa2")
+		(uuid "aaba0020-5b94-43af-a1df-d196205e141a")
 	)
 	(wire
 		(pts
-			(xy 26.67 130.81) (xy 27.94 130.81)
+			(xy 135.89 138.43) (xy 135.89 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "be3b36c5-178e-4be9-86e5-7a36f6303c68")
+		(uuid "acac01ed-8161-4976-9093-906afb6aa872")
 	)
 	(wire
 		(pts
-			(xy 86.36 71.12) (xy 86.36 72.39)
+			(xy 59.69 132.08) (xy 55.88 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c7eded28-6f7b-48f6-bc45-b4545d22422c")
+		(uuid "aebeed1d-1c31-4f1d-8823-c0cb426d0ba2")
 	)
 	(wire
 		(pts
-			(xy 111.76 121.92) (xy 111.76 123.19)
+			(xy 85.09 107.95) (xy 110.49 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c82593f2-caea-4caf-8a84-6ffcf749fc6e")
+		(uuid "b06ff858-3726-4da5-8d6b-9b83727a5908")
 	)
 	(wire
 		(pts
-			(xy 135.89 25.4) (xy 135.89 26.67)
+			(xy 85.09 41.91) (xy 85.09 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cc57dde3-9e30-42a2-add7-f9c5838014ee")
+		(uuid "b2382a31-69ce-41ba-b1f7-d5bfd1016843")
 	)
 	(wire
 		(pts
-			(xy 34.29 49.53) (xy 34.29 52.07)
+			(xy 139.7 83.82) (xy 135.89 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cf13db5c-5b94-4fa6-8d57-2d3f944f10f6")
+		(uuid "b24aedd1-93ee-4a1a-bd13-75b0d6cf9a19")
 	)
 	(wire
 		(pts
-			(xy 85.09 49.53) (xy 85.09 52.07)
+			(xy 63.5 33.02) (xy 63.5 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d3da3809-987b-4995-8c70-196e795c2f34")
+		(uuid "b31ef2f8-f600-4e8f-ae97-1f0ca5fc92ee")
 	)
 	(wire
 		(pts
-			(xy 86.36 71.12) (xy 111.76 71.12)
+			(xy 110.49 35.56) (xy 106.68 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "da546a31-0836-4138-9434-91f656eb2d9e")
+		(uuid "b3f2dc99-570e-4185-80d1-6364f0a1e343")
 	)
 	(wire
 		(pts
-			(xy 67.31 41.91) (xy 77.47 41.91)
+			(xy 76.2 132.08) (xy 73.66 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db3c0872-78bd-4e3a-889c-38e83252a0c8")
+		(uuid "b67c11c2-6e4d-496b-96a6-eb434996e271")
 	)
 	(wire
 		(pts
-			(xy 146.05 86.36) (xy 146.05 105.41)
+			(xy 34.29 59.69) (xy 59.69 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dd8d7600-2d13-4643-9b1e-7e542ee8b0e6")
+		(uuid "b73daf6d-e512-41af-948c-08ac1572da19")
 	)
 	(wire
 		(pts
-			(xy 110.49 33.02) (xy 110.49 34.29)
+			(xy 124.46 132.08) (xy 124.46 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "de812bc9-1e18-4010-aa67-01745fad34c8")
+		(uuid "b8e04209-39c6-499e-b701-67fec9c755c5")
 	)
 	(wire
 		(pts
-			(xy 60.96 115.57) (xy 86.36 115.57)
+			(xy 146.05 119.38) (xy 17.78 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "deedac29-26ae-48f1-bf76-79b6d0b9815b")
+		(uuid "b9e041d7-b417-40ad-8a2f-5754d22d9f3d")
 	)
 	(wire
 		(pts
-			(xy 34.29 52.07) (xy 59.69 52.07)
+			(xy 92.71 146.05) (xy 102.87 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e3a85829-9cfc-410d-b15a-4ca8f1c276f4")
+		(uuid "bb925aa9-ee70-4b65-8fda-52a64a19b868")
 	)
 	(wire
 		(pts
-			(xy 135.89 26.67) (xy 135.89 27.94)
+			(xy 41.91 49.53) (xy 52.07 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e7040aa8-c441-4fd8-87c8-55df33092db2")
+		(uuid "bca6a93f-bc88-4180-abcd-f217052dcab8")
 	)
 	(wire
 		(pts
-			(xy 60.96 115.57) (xy 60.96 116.84)
+			(xy 139.7 33.02) (xy 139.7 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e8bbb850-8e14-45aa-82fb-1bf80a0ae657")
+		(uuid "c2fbb4fb-ba91-43e5-af90-2c8974f072e8")
 	)
 	(wire
 		(pts
-			(xy 143.51 41.91) (xy 144.78 41.91)
+			(xy 99.06 83.82) (xy 99.06 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ecd2fd74-4ea9-475f-81d0-7b0f2aa115a2")
+		(uuid "c5aa1cf5-de82-4be2-a89b-7cc255e9cba6")
 	)
 	(wire
 		(pts
-			(xy 93.98 130.81) (xy 104.14 130.81)
+			(xy 88.9 35.56) (xy 85.09 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ee682e00-e1a5-4409-be87-a4466ee15b99")
+		(uuid "c6033e9a-e34a-49f7-be69-a7030d06ccae")
 	)
 	(wire
 		(pts
-			(xy 110.49 26.67) (xy 135.89 26.67)
+			(xy 17.78 119.38) (xy 17.78 146.05)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f0bac3de-feb6-4134-9aea-784d3bacceb9")
+		(uuid "c748d482-b556-4d2c-ac18-870acec0bb6a")
 	)
 	(wire
 		(pts
-			(xy 35.56 96.52) (xy 60.96 96.52)
+			(xy 135.89 41.91) (xy 135.89 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f392aedb-e9f4-4bc8-b52e-58b97458c2e1")
+		(uuid "ca2df45c-41f0-422b-a4d4-e1840fa1fd10")
 	)
 	(wire
 		(pts
-			(xy 111.76 115.57) (xy 111.76 116.84)
+			(xy 85.09 107.95) (xy 85.09 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f3a5e743-80d3-4e88-89f9-3b5916150adf")
+		(uuid "caa8b86e-cd32-46ab-bd50-1b2418a71587")
 	)
 	(wire
 		(pts
-			(xy 34.29 26.67) (xy 34.29 27.94)
+			(xy 76.2 35.56) (xy 73.66 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fc10991d-825a-4acb-8754-2c43d52eeadf")
+		(uuid "cb32e6d7-2777-4455-a0b8-7235c82426d1")
+	)
+	(wire
+		(pts
+			(xy 114.3 83.82) (xy 110.49 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbb27d7b-61e2-403b-a9fc-48abff2bca86")
+	)
+	(wire
+		(pts
+			(xy 67.31 49.53) (xy 77.47 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdd60f5e-57a2-4bf0-9c4d-d7595bcda57d")
+	)
+	(wire
+		(pts
+			(xy 114.3 132.08) (xy 110.49 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d15be33c-26c9-4d7d-af53-e9ebbca30021")
+	)
+	(wire
+		(pts
+			(xy 63.5 129.54) (xy 63.5 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2dddad0-9bcd-4789-8a4a-14be3c418d0f")
+	)
+	(wire
+		(pts
+			(xy 59.69 57.15) (xy 59.69 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dae75a89-4824-449f-8d70-c19783bf24cd")
+	)
+	(wire
+		(pts
+			(xy 59.69 153.67) (xy 59.69 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db0e4db0-38ee-4892-b02f-1316a4aea020")
+	)
+	(wire
+		(pts
+			(xy 124.46 35.56) (xy 124.46 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dec6464b-12ea-4d3e-87c5-a3e51c93b002")
+	)
+	(wire
+		(pts
+			(xy 135.89 132.08) (xy 132.08 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e252e7d4-bcad-4122-bbcc-cb809f1161ba")
+	)
+	(wire
+		(pts
+			(xy 85.09 83.82) (xy 81.28 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a224b9-2063-46e9-9abf-8e92d956657e")
+	)
+	(wire
+		(pts
+			(xy 110.49 57.15) (xy 110.49 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e56aa146-3fd7-4330-a58f-b9584a599dc0")
+	)
+	(wire
+		(pts
+			(xy 34.29 132.08) (xy 30.48 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6a1f47a-312a-47a8-a705-85a6572bbc91")
+	)
+	(wire
+		(pts
+			(xy 48.26 132.08) (xy 48.26 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7874870-1a3f-42db-a8d3-48f82eb2c78c")
+	)
+	(wire
+		(pts
+			(xy 41.91 146.05) (xy 52.07 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7cd0dba-9364-4d38-910d-c031645fa78e")
+	)
+	(wire
+		(pts
+			(xy 59.69 83.82) (xy 55.88 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9fa2653-a4b4-4ce9-9a1b-374e38b1e9b4")
+	)
+	(wire
+		(pts
+			(xy 135.89 107.95) (xy 135.89 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edce3a9b-e104-487d-af2f-c1139d0817a1")
+	)
+	(wire
+		(pts
+			(xy 101.6 83.82) (xy 99.06 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0121504-6273-4e67-afbc-cd1538a09c90")
+	)
+	(wire
+		(pts
+			(xy 114.3 129.54) (xy 114.3 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f06421c5-62d4-418c-b0ca-5093301ed85f")
+	)
+	(wire
+		(pts
+			(xy 85.09 59.69) (xy 85.09 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1796a10-8cb0-4434-83fb-2c1339c3b482")
+	)
+	(wire
+		(pts
+			(xy 110.49 132.08) (xy 106.68 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7174d56-99c3-46d4-a04e-6bac33095ba5")
+	)
+	(wire
+		(pts
+			(xy 88.9 33.02) (xy 88.9 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8619f76-3127-4e86-9c4b-3afc53778380")
+	)
+	(wire
+		(pts
+			(xy 63.5 132.08) (xy 59.69 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "febdb3f2-3b5e-494b-906f-db435b3d0fd9")
+	)
+	(wire
+		(pts
+			(xy 17.78 146.05) (xy 26.67 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff4d88c7-d4de-48a1-a6a1-b81ea39ffdfb")
 	)
 	(rectangle
 		(start 13.97 13.97)
-		(end 154.94 152.4)
+		(end 154.94 168.91)
 		(stroke
 			(width 0.508)
 			(type default)
@@ -2185,7 +2635,7 @@
 	)
 	(global_label "LEDData"
 		(shape input)
-		(at 25.4 41.91 180)
+		(at 25.4 49.53 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2195,13 +2645,545 @@
 		)
 		(uuid "68504dca-e6df-4ddb-8d87-61ba425f2403")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.8919 41.91 0)
+			(at 17.8919 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 139.7 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "057ad5de-8b62-4593-ab3c-5a62b2d2977b")
+		(property "Reference" "#PWR024"
+			(at 139.7 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.7 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "96576372-1e7a-4c23-ac4c-47d0ed08fd06")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 27.94 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06e934c6-5a5d-4104-859b-02f1216ea2e5")
+		(property "Reference" "C11"
+			(at 27.9463 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 27.9463 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 27.94 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 27.94 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 27.94 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1333d0e4-ce0e-4c81-8d1a-48e5c388f231")
+		)
+		(pin "2"
+			(uuid "79139721-94b5-48e9-a919-b7590d8d5ac9")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a7014ee-8268-4d4e-8ff8-768449805a5c")
+		(property "Reference" "#PWR016"
+			(at 48.26 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e33e747e-faa6-4697-9791-48a425aa036d")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b601bc4-21ff-46e0-b4c3-3d9fe5ad9efc")
+		(property "Reference" "#PWR014"
+			(at 22.86 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 22.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "836f00d0-2ef8-4993-b09b-7972120c8c80")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 129.54 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cf641bd-ba06-41a4-a9b9-7e3146a8e0ca")
+		(property "Reference" "C10"
+			(at 129.5463 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 129.5463 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 129.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c1b9170-b5ed-40fa-8537-8bdaee252b57")
+		)
+		(pin "2"
+			(uuid "8dfbe9fe-e25d-4aba-b053-43041f334852")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 88.9 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d78a8fc-8727-44f3-80d5-5a322a181f85")
+		(property "Reference" "#PWR09"
+			(at 88.9 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 88.9 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f5fbd3c4-e03a-4b31-882b-059035561084")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0dbd8055-0f28-4a42-a5d2-8f3e72a25fb5")
+		(property "Reference" "#PWR012"
+			(at 124.46 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.46 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f2e5e60-3b2a-4cea-9aa4-736eeddb74c4")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 88.9 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e8ac195-3ea2-4609-b1b2-09ccd834e1a9")
+		(property "Reference" "#PWR031"
+			(at 88.9 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 88.9 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 88.9 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac59a4ea-3bbe-411c-809f-a9d181a9bdc0")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR031")
+					(unit 1)
+				)
 			)
 		)
 	)
@@ -2279,15 +3261,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 35.56 130.81 0)
+		(at 85.09 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "12d33c0f-ed7c-4df6-a3ee-716bd555b994")
-		(property "Reference" "D11"
-			(at 45.72 127.162 0)
+		(uuid "16fca50c-9c9f-45b8-ab7f-8f9341307421")
+		(property "Reference" "D8"
+			(at 95.25 94.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2295,7 +3277,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 46.228 129.794 0)
+			(at 95.758 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2303,7 +3285,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 36.83 138.43 0)
+			(at 86.36 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2313,7 +3295,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 38.1 140.335 0)
+			(at 87.63 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2323,7 +3305,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 35.56 130.81 0)
+			(at 85.09 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2332,241 +3314,21 @@
 			)
 		)
 		(pin "2"
-			(uuid "bc6b52e5-f7b8-46d8-a41a-6ea9d37a0153")
+			(uuid "9437e3d6-6c26-43ef-9f9b-6cb6b2fe3491")
 		)
 		(pin "4"
-			(uuid "7242d4f8-ddde-4418-9335-fd19338e76df")
+			(uuid "58a7937b-0fd8-4906-b9eb-c8f77be92c41")
 		)
 		(pin "3"
-			(uuid "b19c33d2-82dd-4186-8ac4-8d84ca3ab06e")
+			(uuid "afb81f09-5d2a-490c-a687-42018191adfa")
 		)
 		(pin "1"
-			(uuid "6588ac8e-39a6-4151-a1ce-263456378404")
+			(uuid "4e3e07df-64c4-4ca6-ab08-788e0f1857c6")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812")
-		(at 60.96 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1bdb5acc-cae6-4b1d-992c-ecf401c7d59a")
-		(property "Reference" "D12"
-			(at 71.12 127.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812"
-			(at 71.628 129.794 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 62.23 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 63.5 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 60.96 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "eed8b4ed-0dd4-4065-af2c-02be9294da81")
-		)
-		(pin "4"
-			(uuid "41bcd638-35cd-4c19-85c8-a11686a3dadb")
-		)
-		(pin "3"
-			(uuid "9f4bff5e-e350-48d0-919d-844be6bfe9f8")
-		)
-		(pin "1"
-			(uuid "257b17e0-b1b3-48ba-92d9-e7415bb3fbae")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 35.56 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21f879d7-767d-4966-8526-09859071dc36")
-		(property "Reference" "C6"
-			(at 38.1 73.6662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 38.1 76.2062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 35.56 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 35.56 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 35.56 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "32e2d442-6fd1-42e0-88ea-4779845edc92")
-		)
-		(pin "2"
-			(uuid "4d249302-c8e1-4fac-9f27-797b4ef9c741")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812")
-		(at 35.56 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "26811db2-2c45-40d8-82c6-ac7ecbdbbfaa")
-		(property "Reference" "D6"
-			(at 45.72 82.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812"
-			(at 46.228 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 36.83 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 38.1 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 35.56 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4ee58806-e205-496a-bb2b-edbb728035da")
-		)
-		(pin "4"
-			(uuid "3302eb6b-9a94-4793-af40-03738638e790")
-		)
-		(pin "3"
-			(uuid "e6a44c94-1df5-4d45-a3a3-cb0cd897c57a")
-		)
-		(pin "1"
-			(uuid "907b4859-534f-4f52-8230-fc11570eb888")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D6")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -2574,16 +3336,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 53.34 0)
+		(at 99.06 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "48dd970b-420a-47de-923b-9d82e20dca86")
-		(property "Reference" "#PWR02"
-			(at 135.89 59.69 0)
+		(uuid "2080d92c-a2b1-4815-8114-469ffd9d5aeb")
+		(property "Reference" "#PWR021"
+			(at 99.06 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +3354,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 58.42 0)
+			(at 99.06 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +3362,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 53.34 0)
+			(at 99.06 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,7 +3371,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 53.34 0)
+			(at 99.06 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2618,7 +3380,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 53.34 0)
+			(at 99.06 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2627,47 +3389,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "f5513631-5113-47bb-b315-ab5f7b4e9296")
+			(uuid "cd39f7cb-6bc2-473f-aca0-44cf64822773")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "#PWR02")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 110.49 30.48 0)
+		(lib_id "power:GND")
+		(at 73.66 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4a10662a-075d-446c-af1e-bbbc84adb516")
-		(property "Reference" "C4"
-			(at 113.03 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 113.03 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 110.49 30.48 0)
+		(uuid "25390227-d08d-4d84-8259-162e28572f2e")
+		(property "Reference" "#PWR07"
+			(at 73.66 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,60 +3419,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 110.49 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 110.49 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd1c5e75-83d6-4bde-a306-974ec90e6fc8")
-		)
-		(pin "2"
-			(uuid "b522880b-3fb5-4fec-b2b8-bedcf16e668d")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 135.89 25.4 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4e425725-7818-4b5e-b7a8-9f2f707ce0c0")
-		(property "Reference" "#PWR01"
-			(at 135.89 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 135.89 20.32 0)
+		(property "Value" "GND"
+			(at 73.66 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2736,7 +3428,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 25.4 0)
+			(at 73.66 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2745,7 +3437,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 25.4 0)
+			(at 73.66 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2753,8 +3445,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 135.89 25.4 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2763,64 +3455,45 @@
 			)
 		)
 		(pin "1"
-			(uuid "8658c7be-1ff2-4035-8c5e-20dd80c0b549")
+			(uuid "a2c60ff4-7d4f-4a17-a459-a4f40627dfc3")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "#PWR01")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812")
-		(at 137.16 130.81 0)
+		(lib_id "Device:C_Small")
+		(at 104.14 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "533acddd-3bc8-40e1-be08-d83e4ef448f8")
-		(property "Reference" "D15"
-			(at 147.32 127.162 0)
+		(fields_autoplaced yes)
+		(uuid "2618cadb-2a28-448c-a34c-89fde786f795")
+		(property "Reference" "C14"
+			(at 104.1463 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SK6812"
-			(at 147.828 129.794 0)
+		(property "Value" "0.1uF"
+			(at 104.1463 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 138.43 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 139.7 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 137.16 130.81 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 104.14 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2828,22 +3501,34 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "5db442fd-b653-43b9-8821-48e1567e8157")
+		(property "Datasheet" "~"
+			(at 104.14 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "4"
-			(uuid "ea8776cc-411e-463e-abc6-f272e00b91df")
-		)
-		(pin "3"
-			(uuid "edfc8b7b-a874-485e-9658-e16ecd90bdb5")
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "df80d563-fdaf-4426-aaf4-42c106f0a870")
+			(uuid "cf3132b1-5624-4798-98c0-a46270722d9d")
+		)
+		(pin "2"
+			(uuid "3fd84a5f-6f2d-480c-a73e-96b79404e874")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D15")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -2851,16 +3536,16 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 137.16 69.85 0)
+		(at 114.3 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "551f9738-e3df-4f98-8a61-11803a8fd796")
-		(property "Reference" "#PWR06"
-			(at 137.16 73.66 0)
+		(uuid "28c3eea9-79fa-4556-9df1-d55280f17638")
+		(property "Reference" "#PWR033"
+			(at 114.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2869,7 +3554,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 137.16 64.77 0)
+			(at 114.3 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2877,7 +3562,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 69.85 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2886,7 +3571,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 69.85 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2895,7 +3580,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 137.16 69.85 0)
+			(at 114.3 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2904,227 +3589,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7da2b9aa-746d-44e6-91e0-16778a0ad9e1")
+			(uuid "90bd2bb1-25bc-4551-9987-60c20f7d5448")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SK6812")
-		(at 60.96 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "627e35b0-16a9-41f4-8568-8360e8a9e770")
-		(property "Reference" "D7"
-			(at 71.12 82.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812"
-			(at 71.628 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 62.23 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 63.5 95.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 60.96 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "03d4a220-145a-4d31-853f-2422870a5ee8")
-		)
-		(pin "4"
-			(uuid "4a96f42f-fa39-48e2-b60d-9e7e3a373678")
-		)
-		(pin "3"
-			(uuid "c038308e-1538-4ddf-8b50-33f06c6ebcad")
-		)
-		(pin "1"
-			(uuid "c6e3a633-f097-4580-ba38-bd2db005b4b5")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 59.69 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "690f58ad-b853-4209-8219-fda00daab448")
-		(property "Reference" "C2"
-			(at 62.23 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 62.23 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 59.69 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 59.69 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 59.69 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5c57c4e4-0aec-41c5-bd2e-fac924e571f1")
-		)
-		(pin "2"
-			(uuid "b057fd3d-6c39-45c0-859c-38b35a69c7a4")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 111.76 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a9b6653-df67-41b1-b5b7-a24191df670c")
-		(property "Reference" "C9"
-			(at 114.3 73.6662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 114.3 76.2062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 111.76 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 111.76 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36cb512b-9362-487d-a5a7-e431e342df10")
-		)
-		(pin "2"
-			(uuid "49ca7944-2726-4b5a-917b-2143ba1cb75e")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C9")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -3132,16 +3602,148 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 137.16 114.3 0)
+		(at 63.5 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6aa5a6bd-51f0-423e-8dfd-07a798ea6486")
+		(uuid "2df4d826-38b8-49de-8fe7-32295c35e108")
+		(property "Reference" "#PWR017"
+			(at 63.5 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 63.5 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 63.5 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b88730e-91be-4568-aa90-b3494c300328")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 38.1 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e27de47-d66f-48b8-8da6-2fcd0d047a6e")
+		(property "Reference" "#PWR04"
+			(at 38.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 38.1 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 38.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94127995-1de9-43b2-9e89-b878b42df77f")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "31f4a180-0b8f-4d66-ac3e-8c3c7fa64077")
 		(property "Reference" "#PWR03"
-			(at 137.16 118.11 0)
+			(at 22.86 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3149,8 +3751,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
-			(at 137.16 109.22 0)
+		(property "Value" "GND"
+			(at 22.86 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3158,7 +3760,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 114.3 0)
+			(at 22.86 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3167,7 +3769,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 114.3 0)
+			(at 22.86 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3175,8 +3777,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 137.16 114.3 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3185,7 +3787,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "944619e4-1255-46d5-aba9-fd89d8d18f7b")
+			(uuid "72c9a627-ebc2-45ae-8426-626f2d3fc063")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
@@ -3197,8 +3799,338 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 114.3 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34bbf377-b544-405e-bd29-04b9e4b8a5fc")
+		(property "Reference" "#PWR022"
+			(at 114.3 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 114.3 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 114.3 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "536de4be-47d7-4fd3-866e-d53beb2075d3")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 139.7 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b77cead-812a-4cd1-a545-f6c3cd544a9e")
+		(property "Reference" "#PWR035"
+			(at 139.7 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.7 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.7 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "39c39d4d-63a1-45ca-8f2f-bf2a312d8c83")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "43792a8b-7469-4593-9253-f24346247cd9")
+		(property "Reference" "#PWR01"
+			(at 48.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60b92d68-6a75-4796-95a3-56ff86bac702")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 63.5 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52e91bbd-5ef0-42c4-ac17-5d6bf72b654a")
+		(property "Reference" "#PWR06"
+			(at 63.5 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 63.5 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 63.5 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33a71033-ffcb-4049-b757-c1caf5582077")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 38.1 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5dc359ce-0274-4794-be4f-323b1e3e2e87")
+		(property "Reference" "#PWR015"
+			(at 38.1 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 38.1 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 38.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7174303-534c-45fe-a785-135ed61002c5")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
-		(at 34.29 30.48 0)
+		(at 27.94 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3207,25 +4139,23 @@
 		(fields_autoplaced yes)
 		(uuid "6c7df769-98bc-414d-ba64-a2691d7ffe8e")
 		(property "Reference" "C1"
-			(at 36.83 29.2162 0)
+			(at 27.9463 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 36.83 31.7562 0)
+			(at 27.9463 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 34.29 30.48 0)
+			(at 27.94 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3234,7 +4164,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 34.29 30.48 0)
+			(at 27.94 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3243,7 +4173,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 34.29 30.48 0)
+			(at 27.94 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3268,15 +4198,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 85.09 41.91 0)
+		(at 34.29 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6ef91f2f-58a7-47f1-b600-d386d6693835")
-		(property "Reference" "D3"
-			(at 95.25 38.262 0)
+		(uuid "6d9ef972-1ac7-458c-ba54-03a32d32d34f")
+		(property "Reference" "D6"
+			(at 44.45 94.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3284,7 +4214,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 95.758 40.894 0)
+			(at 44.958 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3292,7 +4222,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 86.36 49.53 0)
+			(at 35.56 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3302,7 +4232,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 87.63 51.435 0)
+			(at 36.83 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3312,7 +4242,82 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 85.09 41.91 0)
+			(at 34.29 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b72c03f7-5f99-4332-9527-4ee28751f128")
+		)
+		(pin "4"
+			(uuid "ea84404c-4905-4752-ac93-394f794ede16")
+		)
+		(pin "3"
+			(uuid "f5674d79-fe7e-4331-a364-7fd74ebeeb6a")
+		)
+		(pin "1"
+			(uuid "df3c3dda-84ba-4139-acf1-c6f60aacf442")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 85.09 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6ef91f2f-58a7-47f1-b600-d386d6693835")
+		(property "Reference" "D3"
+			(at 95.25 45.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 95.758 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 86.36 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 87.63 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 85.09 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3342,35 +4347,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 111.76 119.38 0)
+		(lib_id "power:GND")
+		(at 124.46 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6f992cce-682f-46c5-a9d1-5109fbc6f014")
-		(property "Reference" "C14"
-			(at 114.3 118.1162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 114.3 120.6562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 111.76 119.38 0)
+		(uuid "70e16263-f6ee-4e7b-b6e2-e80b60e8afbd")
+		(property "Reference" "#PWR034"
+			(at 124.46 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3378,8 +4365,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 111.76 119.38 0)
+		(property "Value" "GND"
+			(at 124.46 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3387,8 +4382,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 111.76 119.38 0)
+		(property "Datasheet" ""
+			(at 124.46 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3397,50 +4401,29 @@
 			)
 		)
 		(pin "1"
-			(uuid "8556ba3d-3651-4d78-87a2-bbf678869902")
-		)
-		(pin "2"
-			(uuid "00285b3a-3c5d-4bf5-ae1b-5e43cfe533c6")
+			(uuid "e106be1c-b079-480b-ba52-fb7f6689e26a")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C14")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 35.56 119.38 0)
+		(lib_id "power:GND")
+		(at 73.66 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "74274f29-f1ca-4dec-aefd-620b5fbc87e7")
-		(property "Reference" "C11"
-			(at 38.1 118.1162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 38.1 120.6562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 35.56 119.38 0)
+		(uuid "715d3f34-c0e5-4f13-ac19-a886d81011c0")
+		(property "Reference" "#PWR018"
+			(at 73.66 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3448,8 +4431,16 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 35.56 119.38 0)
+		(property "Value" "GND"
+			(at 73.66 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3457,8 +4448,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 35.56 119.38 0)
+		(property "Datasheet" ""
+			(at 73.66 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3467,15 +4467,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "17fd52ad-4514-42fb-8d20-54bed8b047f6")
-		)
-		(pin "2"
-			(uuid "bd1805bc-ea4d-498a-9868-af9a569a5047")
+			(uuid "3bbd0195-2111-4d9b-995e-65dc6b90ad07")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C11")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3483,15 +4480,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 111.76 130.81 0)
+		(at 110.49 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7568a152-aa73-4f0e-a8cb-50fe33eda55d")
-		(property "Reference" "D14"
-			(at 121.92 127.162 0)
+		(uuid "7a2d1f3f-0b41-46ec-80cb-2f296e89dcbf")
+		(property "Reference" "D9"
+			(at 120.65 94.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3499,7 +4496,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 122.428 129.794 0)
+			(at 121.158 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3507,7 +4504,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 113.03 138.43 0)
+			(at 111.76 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3517,7 +4514,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 114.3 140.335 0)
+			(at 113.03 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3527,7 +4524,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 111.76 130.81 0)
+			(at 110.49 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,21 +4533,164 @@
 			)
 		)
 		(pin "2"
-			(uuid "2981d3a2-129e-4241-80c8-c3372a7bdfc2")
+			(uuid "fc5047b5-7f89-40d0-b346-4e44f132a13d")
 		)
 		(pin "4"
-			(uuid "f5074ee1-b8c3-4913-ac68-ab738cf7c6db")
+			(uuid "6b563622-b7ac-454e-af83-ba4616effc5f")
 		)
 		(pin "3"
-			(uuid "2a6dfe57-c7c9-4deb-8ab3-5ff9e87d8df7")
+			(uuid "95a45566-aa65-4a75-9cd9-91731443cadc")
 		)
 		(pin "1"
-			(uuid "bde7c325-d6ba-4900-bb68-4cf690cafc1e")
+			(uuid "f032e70e-af07-4163-819f-9769899e2434")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D14")
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 59.69 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7e4f4842-f53e-4f07-a428-5fedaec6bf3c")
+		(property "Reference" "D12"
+			(at 69.85 142.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 70.358 145.034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 60.96 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 62.23 155.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 59.69 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "af5a2b1f-74f0-4fcd-b2a6-6b71125a00ff")
+		)
+		(pin "4"
+			(uuid "237d87ca-bbe3-4000-b347-7c822fec4222")
+		)
+		(pin "3"
+			(uuid "6a943dbd-57eb-46e7-926f-85f86067e099")
+		)
+		(pin "1"
+			(uuid "617e22ac-f793-4f13-9a1b-489b3b73165f")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 78.74 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7e6c95dd-bb77-4059-a94d-8f73bf4ec9f9")
+		(property "Reference" "C8"
+			(at 78.7463 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 78.7463 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 78.74 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 78.74 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "818d661e-8204-4151-bb60-f53c4613af9d")
+		)
+		(pin "2"
+			(uuid "fdee69e5-c841-433e-aa0d-b83de47647b4")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -3623,35 +4763,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 135.89 30.48 0)
+		(lib_id "power:+5V")
+		(at 38.1 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "95b2e9eb-ad3a-4a20-9b0c-ce5501906c56")
-		(property "Reference" "C5"
-			(at 138.43 29.2162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 138.43 31.7562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 135.89 30.48 0)
+		(uuid "886804f5-5ab6-4b7c-8f01-06c9a4752aea")
+		(property "Reference" "#PWR026"
+			(at 38.1 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3659,200 +4781,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 135.89 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 135.89 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "19e4a668-2e92-4075-8841-cb62ee2b405f")
-		)
-		(pin "2"
-			(uuid "8b002ce7-ec65-4cb1-b52a-8cbeb70a2194")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 60.96 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "98157019-9445-42ea-801f-7d65d168bf7b")
-		(property "Reference" "C7"
-			(at 63.5 73.6662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 63.5 76.2062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 60.96 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 60.96 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 60.96 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "db836b2c-2572-4980-a83e-16e5a1f8fbcd")
-		)
-		(pin "2"
-			(uuid "aa9b6641-3a36-4bf2-81e8-955e53007033")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 137.16 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "985e9ce3-b5b1-4158-a95e-c1baedacb856")
-		(property "Reference" "C15"
-			(at 139.7 118.1162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 139.7 120.6562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 137.16 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "758c48f0-c9d2-452c-b846-ea5e018c873f")
-		)
-		(pin "2"
-			(uuid "d8abe90b-3348-4435-961d-e501a49a7066")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 137.16 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c9195eb-f941-4929-a108-708c8484258a")
-		(property "Reference" "#PWR07"
-			(at 137.16 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 137.16 102.87 0)
+		(property "Value" "+5V"
+			(at 38.1 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3860,7 +4790,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 97.79 0)
+			(at 38.1 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3869,7 +4799,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 97.79 0)
+			(at 38.1 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3877,8 +4807,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 97.79 0)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 38.1 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3887,12 +4817,80 @@
 			)
 		)
 		(pin "1"
-			(uuid "dbc8fa5d-b0be-4357-bf6a-583c6f1ba7f9")
+			(uuid "d77024b0-f2ef-4d9e-9113-04c7934d9d4f")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "#PWR07")
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 53.34 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8aa46f8c-89f1-4c8e-9d7d-91f76ec26aff")
+		(property "Reference" "C12"
+			(at 53.3463 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 53.3463 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 53.34 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "490f70f0-e7d7-427b-90e0-e8a7a1d07c0a")
+		)
+		(pin "2"
+			(uuid "4d9f5745-f08b-42e8-8524-920c6c283227")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -3900,15 +4898,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 34.29 41.91 0)
+		(at 110.49 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a11e596f-13db-4e8c-bd16-53d8fe9a8f4c")
-		(property "Reference" "D1"
-			(at 44.45 38.262 0)
+		(uuid "8ea996b6-c3aa-43bb-b036-eea931a361e3")
+		(property "Reference" "D14"
+			(at 120.65 142.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3916,7 +4914,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 44.958 40.894 0)
+			(at 121.158 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3924,7 +4922,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 35.56 49.53 0)
+			(at 111.76 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3934,7 +4932,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 36.83 51.435 0)
+			(at 113.03 155.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3944,7 +4942,280 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 34.29 41.91 0)
+			(at 110.49 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3df37818-b794-426e-ac11-b00df57a3ba4")
+		)
+		(pin "4"
+			(uuid "07bc5a31-8a7a-4174-b79c-b3b33c77e919")
+		)
+		(pin "3"
+			(uuid "fab3ded4-eb5b-4c27-a6b3-1eab579dfaf9")
+		)
+		(pin "1"
+			(uuid "e5b451ca-ed5a-4087-947e-402b57aec0e7")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 73.66 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92937b2e-125c-4482-9f81-9164858a091b")
+		(property "Reference" "#PWR029"
+			(at 73.66 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 73.66 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 73.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 73.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0f4a6c1a-4fc4-4c2e-8efd-3be4829206b2")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 99.06 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94509cfd-fafc-48e8-b505-9092de96cfe2")
+		(property "Reference" "#PWR010"
+			(at 99.06 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 99.06 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 99.06 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65f01d94-4a14-4ad1-92de-e41152bfe308")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "958da210-d3c4-4bb3-8249-8188db77b516")
+		(property "Reference" "#PWR023"
+			(at 124.46 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 124.46 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31e8f354-c6db-4e7c-b71c-6c106a26d8c9")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 34.29 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a11e596f-13db-4e8c-bd16-53d8fe9a8f4c")
+		(property "Reference" "D1"
+			(at 44.45 45.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 44.958 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 35.56 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 36.83 59.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 34.29 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3975,15 +5246,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 86.36 86.36 0)
+		(at 135.89 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a4d0be4e-dfdd-4231-942a-2a8b23652c92")
-		(property "Reference" "D8"
-			(at 96.52 82.712 0)
+		(uuid "a773fb25-055a-4f03-bf0e-da250d2f5794")
+		(property "Reference" "D15"
+			(at 146.05 142.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3991,7 +5262,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 97.028 85.344 0)
+			(at 146.558 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3999,7 +5270,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 87.63 93.98 0)
+			(at 137.16 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4009,7 +5280,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 88.9 95.885 0)
+			(at 138.43 155.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4019,7 +5290,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 86.36 86.36 0)
+			(at 135.89 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4028,21 +5299,21 @@
 			)
 		)
 		(pin "2"
-			(uuid "59bec359-971a-449d-97fd-e5f01efa676b")
+			(uuid "27939b3c-7de9-411e-8f26-1df9947ef600")
 		)
 		(pin "4"
-			(uuid "dc961699-a105-4a3d-a1f8-d95fcecd05f6")
+			(uuid "97a30b6f-b854-4f44-8418-bab6dff37f08")
 		)
 		(pin "3"
-			(uuid "c236f6bb-56bd-4e84-b90a-93c4e55f40e2")
+			(uuid "b921e474-7123-411f-8622-3b907fe484e7")
 		)
 		(pin "1"
-			(uuid "bab5137f-6815-4676-9f4b-a6bcfaf4c5cc")
+			(uuid "23793aad-e896-4c88-a3e7-4c43aa60b743")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D8")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -4050,34 +5321,32 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 85.09 30.48 0)
+		(at 53.34 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a860a98f-0b10-4c74-86d4-a3fae8d0e027")
-		(property "Reference" "C3"
-			(at 87.63 29.2162 0)
+		(uuid "a8e29301-8f21-4b27-8e21-9f5fe1068abd")
+		(property "Reference" "C7"
+			(at 53.3463 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 87.63 31.7562 0)
+			(at 53.3463 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 85.09 30.48 0)
+			(at 53.34 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4086,7 +5355,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 30.48 0)
+			(at 53.34 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4095,7 +5364,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 85.09 30.48 0)
+			(at 53.34 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4104,15 +5373,147 @@
 			)
 		)
 		(pin "1"
-			(uuid "f4128c4d-8506-45b3-afb1-fe77ec61d9c3")
+			(uuid "2b369274-84c4-4b09-9d7d-02b2a76feabc")
 		)
 		(pin "2"
-			(uuid "d5232d6f-feb6-4c94-93f1-3a3f9a700dc9")
+			(uuid "6f81ed46-0f1b-4b8b-b0da-ef9c3e7fae4f")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C3")
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 63.5 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9b20d1c-f616-4606-aaa5-726b3de81ee7")
+		(property "Reference" "#PWR028"
+			(at 63.5 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 63.5 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 63.5 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bc77d2d9-09ff-4b2a-a122-e06c9b08ebaf")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 158.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad7da967-40c1-41cc-a912-9bf30ec9bdc1")
+		(property "Reference" "#PWR030"
+			(at 85.09 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0cefbb03-87c6-4801-b0dd-6c3854955fb9")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -4120,15 +5521,15 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 111.76 86.36 0)
+		(at 85.09 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c50d24c7-32fb-4a8f-bf76-2f6b92c6b840")
-		(property "Reference" "D9"
-			(at 121.92 82.712 0)
+		(uuid "b39a3191-445a-4088-9180-c6ca339b3c0b")
+		(property "Reference" "D13"
+			(at 95.25 142.402 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4136,7 +5537,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 122.428 85.344 0)
+			(at 95.758 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4144,7 +5545,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 113.03 93.98 0)
+			(at 86.36 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +5555,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 114.3 95.885 0)
+			(at 87.63 155.575 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4164,7 +5565,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 111.76 86.36 0)
+			(at 85.09 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4173,21 +5574,21 @@
 			)
 		)
 		(pin "2"
-			(uuid "abd47188-ef60-42cd-951f-8cd61871b007")
+			(uuid "f4fc6f1c-5349-49c5-bc39-e7d087db7f85")
 		)
 		(pin "4"
-			(uuid "e5c12e66-5490-4620-92a3-30eda54c5709")
+			(uuid "c178085d-66b7-4d48-ab3c-3833e5d71fb9")
 		)
 		(pin "3"
-			(uuid "0d751e1d-2658-407b-94f0-750752f12b46")
+			(uuid "38bcfbca-671e-4866-a807-42f3d6a01b05")
 		)
 		(pin "1"
-			(uuid "6fb5b95f-8a57-4624-8fff-6bf88492af98")
+			(uuid "2e7681cf-8be7-4517-a284-0cc7320497d1")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D9")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4195,34 +5596,32 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 60.96 119.38 0)
+		(at 104.14 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c611afd3-8b49-4b3e-8ba5-9528ab5f04a9")
-		(property "Reference" "C12"
-			(at 63.5 118.1162 0)
+		(uuid "b830c1a4-9eb5-4968-b6e3-b873bd33f1f7")
+		(property "Reference" "C9"
+			(at 104.1463 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 63.5 120.6562 0)
+			(at 104.1463 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 60.96 119.38 0)
+			(at 104.14 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4231,7 +5630,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 119.38 0)
+			(at 104.14 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4240,7 +5639,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 60.96 119.38 0)
+			(at 104.14 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4249,15 +5648,283 @@
 			)
 		)
 		(pin "1"
-			(uuid "72925f36-c362-4e8c-a912-abf6d74d6842")
+			(uuid "14b1a512-23f7-407e-aa5e-93c82d3bbe71")
 		)
 		(pin "2"
-			(uuid "6428c9bb-2531-4128-b732-9219c9da5fc1")
+			(uuid "fb4c1eb1-7f35-4bf3-9b8a-6a304a912d08")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C12")
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 78.74 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9bc693e-1afd-45da-8ef0-da510eb92ac1")
+		(property "Reference" "C13"
+			(at 78.7463 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 78.7463 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 78.74 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f08d93d0-e5c2-46a9-acde-3106cd804bad")
+		)
+		(pin "2"
+			(uuid "72e5b386-877d-4330-bee4-84b9bb0922b2")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 129.54 132.08 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9f03e42-7611-4b2a-b179-684070b323f7")
+		(property "Reference" "C15"
+			(at 129.5463 125.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 129.5463 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e876df3-a7e3-4f53-9ba4-1d237b1d9719")
+		)
+		(pin "2"
+			(uuid "612c2850-1153-46ff-ba9e-ee66fb9ed87b")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 99.06 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bbbb3797-1e61-4312-b30a-eeb7496f46f7")
+		(property "Reference" "#PWR032"
+			(at 99.06 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 99.06 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 99.06 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "685439e3-2717-4de0-84e3-ca4b58618c71")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c2398f1c-d00a-48c5-9dd5-5333468c49cf")
+		(property "Reference" "#PWR019"
+			(at 85.09 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c22abc9f-5d53-47f5-82e5-c63334a5426f")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -4265,7 +5932,150 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 135.89 41.91 0)
+		(at 135.89 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3e4f145-1221-4e2c-9b67-e66bf3f5ac87")
+		(property "Reference" "D10"
+			(at 146.05 94.142 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 146.558 96.774 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 137.16 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 138.43 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 135.89 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8dbda55c-4380-4407-80de-05f9c9368b38")
+		)
+		(pin "4"
+			(uuid "a76b6a47-ed0b-4db9-b2df-89a81c4069fd")
+		)
+		(pin "3"
+			(uuid "c933327e-16e7-4e9a-9992-fb08add5d1e8")
+		)
+		(pin "1"
+			(uuid "2ce069da-42b1-40df-96f8-cf257cb38d94")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 53.34 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c5b58fd7-96d5-4d87-a17d-a0e58fc64f90")
+		(property "Reference" "C2"
+			(at 53.3463 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 53.3463 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 53.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0814aea-57f7-4c42-9ec1-b5f4f3b13776")
+		)
+		(pin "2"
+			(uuid "6b5e47d0-a34d-4b14-b048-903163e5903e")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 135.89 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4273,7 +6083,7 @@
 		(dnp no)
 		(uuid "ca139ac2-cc9d-4c52-9609-5f2683c09399")
 		(property "Reference" "D5"
-			(at 146.05 38.262 0)
+			(at 146.05 45.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4281,7 +6091,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 146.558 40.894 0)
+			(at 146.558 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4289,7 +6099,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 137.16 49.53 0)
+			(at 137.16 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +6109,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 138.43 51.435 0)
+			(at 138.43 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4309,7 +6119,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 135.89 41.91 0)
+			(at 135.89 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4339,86 +6149,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 137.16 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1087e9c-bc8a-4cc6-b7eb-a321b419c787")
-		(property "Reference" "C10"
-			(at 139.7 73.6662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 139.7 76.2062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 137.16 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 137.16 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e0d52fa-f82c-4ee0-b6a4-c7aaf6dd907e")
-		)
-		(pin "2"
-			(uuid "6d886865-ea8f-4e12-811f-cf2b4d3727f5")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LED:SK6812")
-		(at 137.16 86.36 0)
+		(at 59.69 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "d39f8176-4e8c-4676-b7b6-6e617ea4c90f")
-		(property "Reference" "D10"
-			(at 147.32 82.712 0)
+		(uuid "cf9129c4-ff18-4ba8-89f7-613a412cd2d9")
+		(property "Reference" "D7"
+			(at 69.85 94.142 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4426,7 +6166,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 147.828 85.344 0)
+			(at 70.358 96.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4434,7 +6174,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 138.43 93.98 0)
+			(at 60.96 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4444,7 +6184,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 139.7 95.885 0)
+			(at 62.23 107.315 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4454,7 +6194,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 137.16 86.36 0)
+			(at 59.69 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4463,91 +6203,21 @@
 			)
 		)
 		(pin "2"
-			(uuid "56b21bf1-4c5b-4d8b-ba33-d6a3c2886a9d")
+			(uuid "4e933c6b-5843-48f9-8d89-eb851c8b3b8c")
 		)
 		(pin "4"
-			(uuid "7acf5361-3ce5-4199-9cab-87354e57053f")
+			(uuid "8003772e-aeee-4769-8d4a-b7ee6e140545")
 		)
 		(pin "3"
-			(uuid "ac2fbe2b-540e-4df5-ba96-0f28cf57bd64")
+			(uuid "134d64ba-35a0-4b25-b6e1-fc8cebd730b3")
 		)
 		(pin "1"
-			(uuid "8787cfae-6de8-49ef-aebe-898bd9954ee1")
+			(uuid "9e3130ee-7c53-4db2-9674-6561838c9268")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 86.36 119.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4426536-dc05-4e59-b4fe-c45151af7c6c")
-		(property "Reference" "C13"
-			(at 88.9 118.1162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 88.9 120.6562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 86.36 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 86.36 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec743a39-937e-4f3d-87c9-ec49ff00ed78")
-		)
-		(pin "2"
-			(uuid "54c3ffda-7a4c-482e-ba81-cc445777a016")
-		)
-		(instances
-			(project "ForgedInFlux V1 LEDModule"
-				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C13")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -4555,7 +6225,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812")
-		(at 110.49 41.91 0)
+		(at 110.49 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4563,7 +6233,7 @@
 		(dnp no)
 		(uuid "d4e6c870-083c-46ad-8f64-ab5ab7866afa")
 		(property "Reference" "D4"
-			(at 120.65 38.262 0)
+			(at 120.65 45.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4571,7 +6241,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 121.158 40.894 0)
+			(at 121.158 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4579,7 +6249,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 111.76 49.53 0)
+			(at 111.76 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4589,7 +6259,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 113.03 51.435 0)
+			(at 113.03 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4599,7 +6269,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 110.49 41.91 0)
+			(at 110.49 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4629,8 +6299,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 88.9 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d837318f-8204-437d-94f5-5c1cf96eb2c3")
+		(property "Reference" "#PWR020"
+			(at 88.9 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 88.9 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 88.9 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "90109abb-c1ef-4b0d-8702-1110d359ae7a")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:SK6812")
-		(at 59.69 41.91 0)
+		(at 59.69 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4638,7 +6374,7 @@
 		(dnp no)
 		(uuid "d92f13eb-9867-4db9-befb-4d95b4eb1ddf")
 		(property "Reference" "D2"
-			(at 69.85 38.262 0)
+			(at 69.85 45.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4646,7 +6382,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 70.358 40.894 0)
+			(at 70.358 48.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4654,7 +6390,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 60.96 49.53 0)
+			(at 60.96 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4664,7 +6400,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 62.23 51.435 0)
+			(at 62.23 59.055 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4674,7 +6410,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 59.69 41.91 0)
+			(at 59.69 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4705,34 +6441,32 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 86.36 74.93 0)
+		(at 78.74 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f5f12b9b-4d9f-471e-98e9-eff2d318c84e")
-		(property "Reference" "C8"
-			(at 88.9 73.6662 0)
+		(uuid "dc31586b-56da-4a87-995e-82c21f3252a2")
+		(property "Reference" "C3"
+			(at 78.7463 29.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 88.9 76.2062 0)
+			(at 78.7463 31.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 86.36 74.93 0)
+			(at 78.74 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +6475,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 86.36 74.93 0)
+			(at 78.74 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4750,7 +6484,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 86.36 74.93 0)
+			(at 78.74 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4759,15 +6493,226 @@
 			)
 		)
 		(pin "1"
-			(uuid "43a5e335-1604-424c-8ee5-a11a95550197")
+			(uuid "e5e687f4-0bd0-4ca8-a313-f160e7813768")
 		)
 		(pin "2"
-			(uuid "32c371b0-cd84-4131-b72e-dc70d3d607fe")
+			(uuid "7835400d-410f-45fd-b32b-ab267084abef")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "C8")
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LED:SK6812")
+		(at 34.29 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc340c83-646d-4bd2-8f83-382935b1511a")
+		(property "Reference" "D11"
+			(at 44.45 142.402 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SK6812"
+			(at 44.958 145.034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
+			(at 35.56 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+			(at 36.83 155.575 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "RGB LED with integrated controller"
+			(at 34.29 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "234f6688-f3e5-4b32-a04f-c726fc89b0e9")
+		)
+		(pin "4"
+			(uuid "3004bec5-0f8f-450f-b66a-4a85818cbf2c")
+		)
+		(pin "3"
+			(uuid "29d89a41-a2e0-48a3-9b8a-d84969bfcb35")
+		)
+		(pin "1"
+			(uuid "61e13a37-e25e-409b-980a-376c45758807")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 129.54 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e90eeb10-452e-488e-b66e-bd5387968d6b")
+		(property "Reference" "C5"
+			(at 129.5463 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 129.5463 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 129.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 129.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10f5ca9c-9397-4a40-86ea-d8f31c9fcfc8")
+		)
+		(pin "2"
+			(uuid "defae3c6-76fb-47af-8f62-caa8176d4d2b")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 27.94 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eef01c12-fe26-4884-b565-33a8ec5a9538")
+		(property "Reference" "C6"
+			(at 27.9463 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 27.9463 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 27.94 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 27.94 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 27.94 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "06056eac-2bd9-42c0-8a2d-340c62c6cfac")
+		)
+		(pin "2"
+			(uuid "184ba68d-f4bf-41bf-9bff-2e5d5238f0b4")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -4775,16 +6720,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 137.16 142.24 0)
+		(at 22.86 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "f76b6c96-b092-463e-b916-e915f734c7d6")
-		(property "Reference" "#PWR04"
-			(at 137.16 148.59 0)
+		(uuid "f2941b5c-8df5-4731-ac21-4703e2d87be7")
+		(property "Reference" "#PWR025"
+			(at 22.86 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4793,7 +6738,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 137.16 147.32 0)
+			(at 22.86 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4801,7 +6746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 137.16 142.24 0)
+			(at 22.86 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,7 +6755,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 137.16 142.24 0)
+			(at 22.86 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4819,7 +6764,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 137.16 142.24 0)
+			(at 22.86 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4828,12 +6773,146 @@
 			)
 		)
 		(pin "1"
-			(uuid "201c5b71-6864-420a-a2b3-c3dc9bcf7ae7")
+			(uuid "68eb0d52-2f6d-4266-ae5c-23a79d2c1842")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "#PWR04")
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 114.3 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f2b22681-18ad-432f-970b-82fbeb9eddb7")
+		(property "Reference" "#PWR011"
+			(at 114.3 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 114.3 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 114.3 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 114.3 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f1eb396-50a0-4ed7-9302-df3d348439d0")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 104.14 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f649adaf-2122-4a4e-9b93-ec588c3f43de")
+		(property "Reference" "C4"
+			(at 104.1463 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 104.1463 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5c93b3a8-ba56-4aff-b931-636542d9b658")
+		)
+		(pin "2"
+			(uuid "69eee7f6-4f35-4dfd-8240-4e34310fcb08")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4906,52 +6985,17 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SK6812")
-		(at 86.36 130.81 0)
+		(lib_id "power:GND")
+		(at 48.26 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fc749010-83e9-4248-b0a3-5aada217d6e4")
-		(property "Reference" "D13"
-			(at 96.52 127.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812"
-			(at 97.028 129.794 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 87.63 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
-			(at 88.9 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "RGB LED with integrated controller"
-			(at 86.36 130.81 0)
+		(fields_autoplaced yes)
+		(uuid "fcc681a7-ba8b-4526-9c68-d8e80f60a661")
+		(property "Reference" "#PWR027"
+			(at 48.26 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4959,22 +7003,180 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "9558dbf0-f3a3-428d-8419-d5724687b725")
+		(property "Value" "GND"
+			(at 48.26 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
-		(pin "4"
-			(uuid "06e30459-9293-4021-b844-3cf69a179f4e")
+		(property "Footprint" ""
+			(at 48.26 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
-		(pin "3"
-			(uuid "051ca01e-cd2b-4590-9593-afb4269af70e")
+		(property "Datasheet" ""
+			(at 48.26 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "246bee26-3b57-4d3c-a9e4-f14a0a30eae1")
+			(uuid "341d003b-636b-4c34-a37e-f1f675e71246")
 		)
 		(instances
 			(project "ForgedInFlux V1 LEDModule"
 				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
-					(reference "D13")
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffe221f8-1768-44a3-bda6-0875db4da7c5")
+		(property "Reference" "#PWR02"
+			(at 85.09 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c56b0e92-e3e2-4d1c-b5a3-8d1872485cb3")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 139.7 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fff9ab50-6a7e-43e1-a545-f026819ad220")
+		(property "Reference" "#PWR013"
+			(at 139.7 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.7 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a2cad8d-4bd5-4f39-ad8e-092847e86726")
+		)
+		(instances
+			(project "ForgedInFlux V1 LEDModule"
+				(path "/2a8a19d2-0663-4b27-9995-ccc115d04639"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
