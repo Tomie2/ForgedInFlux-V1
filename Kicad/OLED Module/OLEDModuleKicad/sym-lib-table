@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OLEDModule")(type "KiCad")(uri "${KIPRJMOD}/OLEDModule.kicad_sym")(options "")(descr ""))
+)
